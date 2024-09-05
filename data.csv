@@ -1,0 +1,953 @@
+työsuhde;ikä;sukupuoli;kokemus;koulutus;kaupunki;työaika;lähityö%;kt;rooli (norm)
+Palkansaaja;36-40;mies;13.0;Ammattikoulu;Turku;1.0;0.2;8000.0;*Full-stack Developer
+Palkansaaja;26-30;mies;9.0;Tietojenkäsittelyn tradenomi;Turku;1.0;0.0;7000.0;*Full-stack Developer
+Laskuttaja;31-35;mies;11.0;DI;;;;;
+Palkansaaja;31-35;mies;5.0;Filosofian kandidaatti, tietojenkäsittelytiede;PK-seutu;1.0;0.35;5200.0;*Full-stack Developer
+Laskuttaja;36-40;mies;15.0;Melkein DI;;;;;
+Palkansaaja;41-45;mies;22.0;tradenomi;PK-seutu;1.0;0.75;6300.0;Lead Developer (fronttipainotus)
+Laskuttaja;31-35;mies;10.0;IT-tradenomi;;;;;
+Palkansaaja;21-25;mies;7.0;Amis;PK-seutu;1.0;0.1;4350.0;*Full-stack Developer
+Palkansaaja;21-25;mies;2.0;Tietotekniikan kandidaatin tutkinto;Jyväskylä;1.0;0.8;3000.0;Full Stack-kehittäjä
+Palkansaaja;31-35;mies;7.0;Amis + keskeytetty AMK;Turku;1.0;0.1;4600.0;Cloud Specialist
+Palkansaaja;31-35;nainen;7.0;;PK-seutu;1.0;0.2;5000.0;*Senior Developer
+Palkansaaja;26-30;mies;5.0;DI, Ohjelmistotekniikka, Turun Yliopisto;Turku;0.99;0.45;7300.0;Senior Consultant
+Palkansaaja;31-35;mies;14.0;Ylioppilas;PK-seutu;1.0;0.95;4560.0;Senior Software Engineer
+Palkansaaja;31-35;mies;11.0;DI;Turku;1.0;0.95;6050.0;*Senior Developer
+Palkansaaja;41-45;mies;26.0;ylioppilas;PK-seutu;1.0;0.6;7100.0;*Senior Developer
+Palkansaaja;36-40;;15.0;FM;Oulu;1.0;0.05;8650.0;Architect
+Palkansaaja;41-45;mies;23.0;Merkonomi;PK-seutu;1.0;0.1;5800.0;Team lead, architect, full stack developer
+Palkansaaja;36-40;mies;15.0;;PK-seutu;1.0;0.1;6600.0;Software architect
+Palkansaaja;31-35;mies;12.0;Filosofian maisteri (tietojenkäsittelytiede);PK-seutu;1.0;0.05;7200.0;Software Specialist
+Palkansaaja;26-30;mies;5.0;AMK;PK-seutu;1.0;0.01;4400.0;DevOps engineer
+Palkansaaja;31-35;mies;15.0;AMK;PK-seutu;1.0;0.33;9000.0;Solutions Architect
+Palkansaaja;36-40;mies;8.0;FM;PK-seutu;1.0;0.0;6900.0;Lead Software Engineer
+Palkansaaja;41-45;mies;25.0;Insinööri;PK-seutu;1.0;0.15;7000.0;Tietoturvainsinööri
+Laskuttaja;31-35;nainen;7.0;Alempi korkeakoulututkinto;;;;;
+Palkansaaja;21-25;mies;3.0;ylioppilastutkinto;PK-seutu;1.0;0.8;6500.0;
+Palkansaaja;26-30;mies;2.0;DI:tä vastaava ulkomailta;PK-seutu;1.0;0.9;4167.7;Automation Engineer
+Palkansaaja;31-35;mies;12.0;Tietojenkäsittelytieteen maisteri;PK-seutu;1.0;0.5;8000.0;Senior Backend Developer
+Palkansaaja;46-50;mies;26.0;Peruskoulu ;PK-seutu;1.0;0.02;6500.0;QA / Devops engineer
+Laskuttaja;41-45;mies;20.0;DI;;;;;
+Palkansaaja;26-30;mies;4.0;Tietojenkäsittelyn tradenomi;Tampere;1.0;0.5;4700.0;Scrum master / Full-stack developer
+Palkansaaja;41-45;nainen;2.0;2 x korkeakoulututkinto, ammatillinen osatutkinto;työpaikka hajautettu;0.987;0.03;2700.0;Web developer
+Laskuttaja;21-25;mies;7.0;Datanomi;;;;;
+Palkansaaja;36-40;mies;12.0;diplomi-insinööri;Tampere;1.0;0.01;5018.0;Cloud software developer
+Laskuttaja;46-50;mies;22.0;ylioppilas;;;;;
+Palkansaaja;21-25;mies;3.0;Kandidaatti;Lontoo;1.0;0.9;12000.0;Software Engineer
+Palkansaaja;26-30;mies;10.0;AMK;PK-seutu;1.0;0.6;5700.0;DevOps Engineer
+Palkansaaja;21-25;mies;2.0;Tekniikan ylioppilas ;PK-seutu;0.15;0.9;1240.0;*Full-stack Developer
+Palkansaaja;36-40;mies;9.0;TkK;PK-seutu;1.0;0.03;6000.0;Senior Software Engineer
+Palkansaaja;36-40;mies;13.0;AMK-insinööri;;1.0;0.08;9100.0;CxO
+Palkansaaja;15-20;mies;5.0;;PK-seutu;1.0;0.1;6800.0;Software Engineering Consultant, Web
+Palkansaaja;41-45;mies;18.0;Insinööri Amk.;Turku;1.0;0.95;5269.0;Konsultti, PDM/PLM järjestelmät
+Palkansaaja;21-25;mies;6.0;Lukio;Tampere;1.0;0.01;3960.0;Frontend developer
+Palkansaaja;36-40;mies;16.0;diplomi-insinööri;PK-seutu;1.0;0.4;6727.0;*Full-stack Developer
+Palkansaaja;31-35;mies;13.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.0;10000.0;Software Architect
+Palkansaaja;31-35;mies;5.0;AMK;Tampere;1.0;0.2;4357.0;Scrum Master / Full-stack kehittäjä
+Palkansaaja;41-45;mies;20.0;Tietojenkäsittelytiede, FM;PK-seutu;1.06;0.05;9700.0;Solutions Architect
+Palkansaaja;31-35;mies;8.0;Filosofian maisteri (tietojenkäsittely);Tampere;1.0;0.2;4200.0;Fullstack developer (mostly frontend)
+Palkansaaja;41-45;mies;5.0;Liiketalouden tradenomi;PK-seutu;1.0;0.05;4566.0;Software Engineer
+Laskuttaja;36-40;mies;12.0;Tekniikan yo;;;;;
+Palkansaaja;31-35;mies;9.0;tietotekniikan DI;PK-seutu;1.0;0.1;10833.0;Senior software development engineer
+Palkansaaja;31-35;mies;6.0;Maisteri, TKT;PK-seutu;1.0;0.9;5435.0;Senior Consultant
+Palkansaaja;26-30;mies;11.0;Ammattikoulu, Datanomi;PK-seutu;1.0;1.0;6000.0;Software developer
+Palkansaaja;31-35;mies;10.0;Tekniikan kandidaatti;PK-seutu;1.0;0.01;9400.0;Engineering Manager
+Palkansaaja;41-45;mies;14.0;;PK-seutu;1.0;0.15;6500.0;*Senior Developer
+Palkansaaja;46-50;mies;22.0;FM;Tampere;1.0;0.2;5234.0;Ohjelmistokehittäjä
+Laskuttaja;36-40;mies;11.0;Tietotekniikan DI;;;;;
+Palkansaaja;26-30;mies;4.0;AMK-insinööri;Kuopio;1.0;0.6;5000.0;Cloud Infrastructure Developer
+Palkansaaja;36-40;mies;12.0;LuK, Tkt;PK-seutu;1.0;0.05;6600.0;Backend Engineer
+Palkansaaja;31-35;;6.0;kandidaatti;Tampere;1.0;0.0;5600.0;*Full-stack Developer
+Palkansaaja;31-35;mies;10.0;DI - Tietotekniikka;PK-seutu;1.0;0.4;6500.0;Full-stack
+Palkansaaja;36-40;mies;12.0;ylioppilas;Turku;1.0;0.0;5900.0;*Full-stack Developer
+Laskuttaja;31-35;mies;10.0;DI;;;;;
+Palkansaaja;31-35;mies;10.0;Tradenomi;PK-seutu;1.0;0.2;5950.0;Senior Full-stack Developer
+Palkansaaja;36-40;mies;7.0;Tietotekniikan perustutkinto;Tampere;1.0;0.0;;Senior Frontend Engineer
+Palkansaaja;26-30;mies;5.0;AMK;Jyväskylä;1.0;0.05;5200.0;Cloud Specialist
+Palkansaaja;21-25;mies;3.0;Lukio;PK-seutu;1.0;0.0;4650.0;Software engineer
+Palkansaaja;41-45;mies;20.0;Filosofian Maisteri;Tampere;1.0;0.1;7000.0;Software Architect
+Palkansaaja;31-35;;5.0;AMK;PK-seutu;1.0;0.01;8500.0;Senior consultant
+Palkansaaja;41-45;;2.0;Yliopisto/maisteri;PK-seutu;1.0;0.05;3800.0;Analyst
+Palkansaaja;41-45;mies;23.0;Diplomi-insinööri, tietotekniikka;PK-seutu;1.0;0.6;6654.0;*Full-stack Developer
+Laskuttaja;41-45;mies;20.0;DI;;;;;
+Palkansaaja;36-40;mies;7.0;Ylempi korkeakoulututkinto (ei IT);PK-seutu;1.0;0.75;5900.0;Data-konsultti/engineer/arkkitehti
+Laskuttaja;31-35;;10.0;DI;;;;;
+Laskuttaja;31-35;mies;15.0;ammattikoulu;;;;;
+Palkansaaja;36-40;mies;8.0;;Tampere;1.0;0.1;5700.0;Senior frontend developer
+Laskuttaja;36-40;mies;12.0;Tradenomi;;;;;
+Palkansaaja;46-50;mies;25.0;;PK-seutu;1.0;0.3;8000.0;
+Palkansaaja;31-35;nainen;8.0;Kauppatieteen maisteri;PK-seutu;1.0;0.2;5000.0;Sales director
+Palkansaaja;36-40;mies;15.0;diplomi-insinööri;Oulu;1.0;0.0;4500.0;Backend developer
+Laskuttaja;46-50;mies;15.0;KTM;;;;;
+Laskuttaja;26-30;mies;3.0;KTM;;;;;
+Palkansaaja;36-40;mies;13.0;;Tampere;1.0;0.1;6300.0;*Full-stack Developer
+Palkansaaja;36-40;mies;10.0;Software Engineer;PK-seutu;1.0;0.6;7000.0;Director of Software Engineering
+Laskuttaja;31-35;mies;8.0;AMK kulttuurialalta;;;;;
+Palkansaaja;41-45;mies;23.0;korkeakoulu;PK-seutu;1.0;0.25;6600.0;Järjestelmäarkkitehti
+Palkansaaja;36-40;mies;15.0;Maisteri;Piilaakso;0.9;0.0;11000.0;Tutkimuspäällikkö
+Palkansaaja;36-40;mies;6.0;Tietojenkäsittelytieteiden dropout ennen kandia;Turku;1.0;0.0;7000.0;*Full-stack Developer
+Palkansaaja;31-35;mies;9.0;DI;;1.0;0.05;8250.0;Senior Site Reliability Engineer
+Palkansaaja;31-35;nainen;1.0;FM, digitaalinen kielentutkimus;Turku;1.0;0.6;2795.0;Junior data scientist
+Palkansaaja;26-30;mies;7.0;Datanomi, Tradenomi;PK-seutu;1.0;0.2;5800.0;Senior Consultant (Full stackia, mutta enimmäkseen fronttia)
+Palkansaaja;26-30;mies;4.0;Yliopisto;PK-seutu;1.0;0.9;5000.0;Data Engineer
+Palkansaaja;41-45;mies;18.0;Insinööri (AMK);PK-seutu;1.0;0.2;6000.0;Ohjelmistosuunnittelija
+Palkansaaja;41-45;mies;23.0;diplomi-insinöööri;PK-seutu;1.0;0.9;7800.0;AI engineer
+Palkansaaja;31-35;mies;12.0;AMK;PK-seutu;1.0;0.15;4900.0;Lead developer
+Palkansaaja;46-50;mies;30.0;DI;PK-seutu;1.0;0.9;7500.0;Principal Developer
+Palkansaaja;36-40;mies;15.0;Lukio;PK-seutu;1.0;0.0;5400.0;Ohjelmistokehittäjä
+Palkansaaja;41-45;mies;20.0;pidempi korkeakoulututkinto, tohtorikoulutus jäänyt kesken;San Francisco;1.0;0.02;8487.0;Staff Software Engineer
+Palkansaaja;31-35;mies;8.0;FM;;1.0;1.0;11000.0;Software Engineer
+Palkansaaja;31-35;;15.0;;;1.0;0.0;7000.0;
+Palkansaaja;36-40;mies;20.0;Ylioppilas;PK-seutu;1.0;0.4;7900.0;Principal Engineer
+Palkansaaja;26-30;mies;6.0;Datanomi, AMK-dropout;Turku;1.0;0.9;4950.0;*Full-stack Developer
+Laskuttaja;41-45;mies;17.0;DI;;;;;
+Laskuttaja;46-50;;28.0;lukio;;;;;
+Palkansaaja;41-45;mies;20.0;Tekniikan yo;PK-seutu;1.0;0.1;8300.0;Engineering team lead
+Laskuttaja;26-30;mies;8.0;Kandi/tietojenkäsittelytieteet;;;;;
+Palkansaaja;46-50;mies;25.0;DI;Vaasa;1.0;0.9;4000.0;Yrittäjä & full stack devaaja
+Palkansaaja;26-30;mies;6.0;Insinööri (ICT);Jyväskylä;1.0;0.05;4800.0;Full-stack web / cloud infra / devops Senior SW Developer
+Palkansaaja;26-30;mies;5.0;;Kuopio;1.0;0.1;4300.0;*Full-stack Developer
+Palkansaaja;31-35;mies;10.0;Tietotekniikan DI;Tampere;1.0;0.1;6500.0;Järjestelmäarkkitehti
+Palkansaaja;36-40;mies;7.0;it-tradenomi;PK-seutu;1.0;0.2;5300.0;*Full-stack Developer
+Palkansaaja;36-40;mies;15.0;Fil kandi;PK-seutu;1.0;0.0;8400.0;*Full-stack Developer
+Palkansaaja;26-30;nainen;5.0;Tietojenkäsittelyn tradenomi;Turku;1.0;0.05;3900.0;Frontend developer
+Laskuttaja;31-35;mies;13.0;Tietojenkäsittelyn tradenomi (AMK);;;;;
+Laskuttaja;26-30;mies;6.0;Yliopisto/Kandi;;;;;
+Laskuttaja;36-40;mies;14.0;ylempi amk;;;;;
+Laskuttaja;26-30;mies;8.0;IT-Tradenomi AMK;;;;;
+Palkansaaja;31-35;mies;10.0;Tradenomi;Hämeenlinna;1.0;1.0;2800.0;Software Developer
+Palkansaaja;41-45;mies;23.0;IT-Tradenomi;PK-seutu;1.0;0.66;7520.0;Principal Engineer
+Palkansaaja;31-35;mies;13.0;Diplomi-insinööri;Tampere;1.0;0.9;6180.0;Johtava rooli
+Laskuttaja;36-40;mies;17.0;International Baccalaureate, ammatikorkeakoulukursseja;;;;;
+Palkansaaja;36-40;mies;10.0;ohjelmistotekniikan insinööri (amk);PK-seutu;1.0;0.05;4780.0;Frontend developer
+Palkansaaja;26-30;mies;5.0;;PK-seutu;1.0;0.2;5900.0;
+Palkansaaja;41-45;mies;18.0;FM;Tampere;1.0;0.0;4490.76;Software developer
+Palkansaaja;31-35;mies;10.0;Datanomi;Turku;1.0;0.6;4464.86;Frontend developer
+Laskuttaja;36-40;mies;11.0;Diplomi-insinööri;;;;;
+Laskuttaja;26-30;nainen;7.0;Tradenomi (amk);;;;;
+Palkansaaja;31-35;mies;6.0;Tekniikan kandi;Tampere;1.0;0.6;3810.0;Scrum Master / Backend developer
+Palkansaaja;21-25;mies;3.0;alempi korkeakoulututkinto;Turku;1.0;0.2;3813.0;*Full-stack Developer
+Palkansaaja;36-40;mies;18.0;FM;Tampere;1.0;0.0;8333.0;Engineering Lead
+Palkansaaja;31-35;;10.0;Insinööri, Tietotekniikka;Oulu;1.0;0.05;5150.0;Frontend-developer
+Palkansaaja;41-45;mies;9.0;;Jyväskylä;1.0;0.9;5768.0;Frontend architect
+Palkansaaja;46-50;mies;22.0;Tietotekniikan kandidaatti;Tampere;1.0;0.9;5050.0;Embedded Software Engineer
+Palkansaaja;41-45;mies;20.0;FM (tietojenkäsittelytiede);Kuopio;1.0;0.8;6000.0;*Full-stack Developer
+Palkansaaja;36-40;mies;5.0;Filosofian maisteri, tietotekniikka;;1.0;0.02;7500.0;*Full-stack Developer
+Palkansaaja;26-30;mies;2.0;Tietotekniikan insinööri (AMK);Turku;1.0;0.1;3554.0;Frontend developer
+Palkansaaja;31-35;mies;10.0;DI;Tampere;1.0;0.4;5000.0;*Full-stack Developer
+Palkansaaja;41-45;mies;25.0;DI;Tampere;1.0;0.1;7050.0;CISO
+Laskuttaja;36-40;mies;16.0;AMK;;;;;
+Palkansaaja;31-35;mies;13.0;diplomi-insinööri;PK-seutu;1.0;0.15;6200.0;Head of Product
+Palkansaaja;36-40;;10.0;Tekniikan ylioppilas;PK-seutu;1.0;0.0;6500.0;Backend developer
+Palkansaaja;31-35;mies;10.0;Insinööri;Turku;1.0;0.5;4635.0;Senior Frontend Developer
+Palkansaaja;31-35;mies;8.0;Ylioppilas;Jyväskylä;1.0;0.2;4500.0;.NET developer
+Palkansaaja;41-45;mies;20.0;Alempi korkeakoulututkinto;Tampere;1.0;;8000.0;*Full-stack Developer
+Palkansaaja;26-30;nainen;5.0;FM (maantiede);Tampere;1.0;0.5;5500.0;Product manager
+Palkansaaja;46-50;mies;25.0;Amk-insinööri;Kuopio;1.0;0.2;6342.0;Senior Integration Consultant 
+Palkansaaja;36-40;mies;15.0;Ylioppilas;PK-seutu;1.0;0.0;5150.0;*Full-stack Developer
+Palkansaaja;31-35;mies;7.0;Datanomi;Tampere;1.0;0.0;5600.0;*Full-stack Developer
+Laskuttaja;36-40;mies;13.0;DI, ohjelmistotekniikka;;;;;
+Palkansaaja;26-30;mies;8.0;Aalto-dropout;PK-seutu;1.0;0.6;5600.0;*Full-stack Developer
+Palkansaaja;31-35;mies;11.0;AMK (Tietojenkäsittelyn tradenomi);PK-seutu;1.0;0.0;6509.0;*Full-stack Developer
+Palkansaaja;26-30;mies;6.0;;;1.0;0.0;3900.0;*Full-stack Developer
+Palkansaaja;46-50;mies;17.0;AMK;Tampere;1.0;0.75;5750.0;Lehtori
+Laskuttaja;36-40;mies;13.0;Insinööri (AMK);;;;;
+Palkansaaja;31-35;mies;5.0;Itseoppinut;Tampere;1.0;0.2;4200.0;Frontend developer
+Palkansaaja;41-45;mies;15.0;Filosofian Maisteri;PK-seutu;1.0;0.35;6500.0;*Full-stack Developer
+Palkansaaja;46-50;mies;6.0;Ammattikoulu;PK-seutu;1.0;0.0;4800.0;Frontend developer
+Palkansaaja;26-30;mies;6.0;Alempi ammattikorkeakoulututkinto;Tampere;1.0;0.05;4040.0;Frontend developer
+Laskuttaja;36-40;mies;15.0;Alempi korkeuakoulututkinto;;;;;
+Palkansaaja;46-50;nainen;22.0;DI;Tampere;1.0;0.9;4755.0;Operatiivinen johtaja
+Palkansaaja;31-35;mies;9.0;Diplomi-insinööri;;1.0;0.0;6650.0;Senior software engineer
+Palkansaaja;36-40;mies;20.0;DI;PK-seutu;1.0;1.0;2000.0;
+Palkansaaja;36-40;mies;6.0;Diplomi-insinööri;Tampere;1.0;0.2;5000.0;Frontend developer
+Palkansaaja;31-35;mies;12.0;DI (tietoliikennetekniikka);PK-seutu;1.0;0.15;5600.0;Data developer
+Palkansaaja;46-50;mies;26.0;Fil, Yo;PK-seutu;1.0;0.05;7550.0;Software Architect
+Laskuttaja;26-30;mies;8.0;Tuotantotalouden diplomi-insinööri ;;;;;
+Palkansaaja;36-40;mies;13.0;FM;PK-seutu;1.0;0.01;6600.0;Software Developer
+Palkansaaja;31-35;;12.0;;PK-seutu;1.0;0.0;8600.0;Engineering manager
+Palkansaaja;41-45;mies;15.0;Insinööri, AMK;Oulu;1.0;0.15;5960.0;Principal engineer, Web and Cloud
+Palkansaaja;46-50;;29.0;tekniikan tohtori (koneoppiminen);PK-seutu;1.0;0.9;8000.0;Manager, Data Science
+Laskuttaja;41-45;mies;20.0;DI;;;;;
+Laskuttaja;41-45;mies;17.0;Insinööri, AMK;;;;;
+Palkansaaja;31-35;mies;6.0;diplomi-insinööri;Tampere;1.0;0.2;4205.0;Software developer
+Palkansaaja;36-40;mies;10.0;Yliopisto-dropout n. kandimäärällä;PK-seutu;1.0;0.01;7800.0;Software Architect / Tech Lead
+Laskuttaja;26-30;mies;9.0;tietotekniikan ylioppilas;;;;;
+Palkansaaja;31-35;mies;5.0;Amk;PK-seutu;1.0;0.1;7350.0;Project lead / Senior developer
+Palkansaaja;31-35;mies;10.0;Ylioppilas + melkein loppuun asti suoritettu alempi korkeakoulututkinto (LuK);Oulu;1.0;0.0;5700.0;Software Developer
+Palkansaaja;31-35;mies;12.0;diplomi-insinööri;PK-seutu;1.0;0.2;6200.0;*Full-stack Developer
+Palkansaaja;36-40;mies;10.0;DI;Tampere;1.0;0.8;6900.0;Lead
+Laskuttaja;31-35;mies;7.0;Yliopisto;;;;;
+Palkansaaja;41-45;mies;17.0;;Tampere;1.0;;5500.0;
+Palkansaaja;26-30;nainen;4.0;Master of Science in Technology;Turku;1.0;0.3;3300.0;*Full-stack Developer
+Palkansaaja;41-45;mies;25.0;Ylempi korkeakoulututkinto (FM, tietojenkäsittely);PK-seutu;1.0;0.35;8570.0;Arkkitehti
+Palkansaaja;31-35;mies;15.0;diplomi-insinööri;PK-seutu;1.0;0.1;6500.0;Cloud Architect
+Laskuttaja;41-45;mies;16.0;insinööri;;;;;
+Palkansaaja;41-45;mies;15.0;filosofian maisteri;Tampere;1.0;0.05;5406.0;*Full-stack Developer
+Palkansaaja;36-40;mies;11.0;Insinööri;PK-seutu;1.0;0.1;5900.0;*Senior Developer
+Palkansaaja;36-40;mies;12.0;Ammattikorkeakoulu;PK-seutu;1.0;0.4;6000.0;*Full-stack Developer
+Palkansaaja;26-30;mies;2.0;Tietotekniikan DI-ohjelma;Tampere;1.0;0.4;3250.0;*Full-stack Developer
+Palkansaaja;41-45;mies;20.0;DI;PK-seutu;1.0;0.9;5357.0;Agile Lead
+Palkansaaja;31-35;mies;15.0;AMK;PK-seutu;1.0;0.0;7000.0;Staff Developer
+Palkansaaja;26-30;mies;5.0;Insinööri (AMK);Turku;1.0;0.1;4000.0;Full Stack Devaaja
+Palkansaaja;31-35;mies;11.0;Tietotekniikan insinööri (AMK);;1.0;0.0;7000.0;*Full-stack Developer
+Palkansaaja;36-40;mies;13.0;DI;Tampere;0.8;0.95;4720.0;*Full-stack Developer
+Palkansaaja;26-30;mies;3.0;Luonnontieteen kandidaatti, tkt;PK-seutu;1.0;0.05;4200.0;Software Designer
+Palkansaaja;36-40;mies;12.0;DI;Tampere;1.0;0.5;5200.0;Lead developer 
+Palkansaaja;26-30;mies;2.0;AMK;PK-seutu;1.0;0.01;5000.0;Software Engineer
+Palkansaaja;31-35;mies;7.0;Ohjelmistoinsinööri;Jyväskylä;1.0;0.0;4800.0;Lead developer
+Palkansaaja;36-40;mies;4.0;Amk;PK-seutu;1.0;0.6;4500.0;Lead developer
+Laskuttaja;31-35;mies;11.0;Elektroniikka-asentaja (ammattikoulu);;;;;
+Palkansaaja;31-35;mies;0.0;Intensiivikoulutus;Tampere;1.0;1.0;3000.0;
+Palkansaaja;21-25;mies;4.0;Tekniikan kandidaatti (tietotekniikka);PK-seutu;1.0;0.2;5100.0;Software Engineer (React-Native)
+Palkansaaja;46-50;mies;25.0;Tradenomi;Tampere;1.0;0.2;7200.0;Cloud Architect
+Palkansaaja;46-50;nainen;4.0;YTT, sosiologia;Tampere;1.0;0.2;3872.0;Software developer
+Palkansaaja;51-55;mies;20.0;ylioppilas;PK-seutu;1.0;0.05;5293.0;Sales system developer
+Palkansaaja;26-30;mies;3.0;Fm;PK-seutu;1.0;0.15;4200.0;Gis developer
+Palkansaaja;51-55;mies;30.0;;Turku;1.0;0.2;5000.0;Senior software engineer – ohjelmistosuunnittelua, backend-painotteista full stack -koodausta: Python, Javascript, React, Postgres
+Palkansaaja;41-45;mies;17.0;DI;PK-seutu;1.0;0.0;8000.0;
+Palkansaaja;31-35;mies;10.0;Tekniikan tohtori;Tampere;1.0;0.1;6930.0;Data Engineer / Data Scientist
+Laskuttaja;41-45;mies;24.0;DI;;;;;
+Palkansaaja;41-45;mies;20.0;Lukio;PK-seutu;1.0;0.6;7350.0;Principal Engineer
+Palkansaaja;41-45;mies;15.0;Tekn. Yo.;PK-seutu;1.0;0.5;6500.0;Lead
+Palkansaaja;21-25;mies;2.0;Ammattikorkeakoulu;Tampere;0.8;0.0;2400.0;*Full-stack Developer
+Laskuttaja;36-40;mies;14.0;Lukio;;;;;
+Palkansaaja;31-35;;9.0;Bachelor of Science;Company not based in Finland, working from HKI;1.0;0.0;;Staff Software Developer, full stack
+Laskuttaja;36-40;mies;15.0;Master of Engineering;;;;;
+Palkansaaja;31-35;mies;11.0;MSc;PK-seutu;1.0;0.3;10450.0;Senior Software Engineer
+Palkansaaja;31-35;mies;8.0;;PK-seutu;1.0;0.8;6000.0;Software Architect
+Palkansaaja;36-40;mies;14.0;Lukio;PK-seutu;1.0;0.01;8752.0;IaaS R&D architect
+Palkansaaja;41-45;nainen;17.0;Diplomi-Insinööri;PK-seutu;1.0;0.2;5920.0;Team Lead, Product Owner
+Palkansaaja;36-40;mies;10.0;FM;Oulu;1.0;0.85;4200.0;*Full-stack Developer
+Palkansaaja;26-30;mies;8.0;Korkeakoulu;Oulu;1.0;0.05;5900.0;Senior Frontend Developer
+Palkansaaja;36-40;mies;17.0;Lukio + kesken jääneet yliopisto-opinnot;Turku;1.0;0.15;5356.0;Frontend developer
+Palkansaaja;26-30;mies;6.0;Insinööri (amk);Jyväskylä;0.8;0.8;4440.0;Mobile & web frontend developer
+Palkansaaja;31-35;;11.0;Tietotekniikan insinööri (AMK);PK-seutu;1.0;0.2;5300.0;Lead Software Developer
+Palkansaaja;31-35;mies;13.0;Diplomi-insinööri (tietotekniikka);Tampere;1.0;0.1;6500.0;Backend developer
+Palkansaaja;36-40;mies;20.0;Alempi korkeakoulututkinto;PK-seutu;1.0;0.4;7000.0;COO
+Palkansaaja;31-35;mies;10.0;Lukio;PK-seutu;1.0;0.25;8000.0;
+Laskuttaja;31-35;mies;10.0;Yliopisto-opintoja;;;;;
+Palkansaaja;26-30;mies;6.0;AMK;Tampere;1.0;0.4;4200.0;Software developer
+Palkansaaja;31-35;mies;4.0;Liiketalouden tradenomi;PK-seutu;1.0;0.6;4700.0;*Full-stack Developer
+Palkansaaja;41-45;mies;16.0;Yliopisto;PK-seutu;1.0;0.0;6620.0;Full Stack Software Architect
+Palkansaaja;36-40;mies;6.0;;PK-seutu;1.0;0.01;7270.0;Lead frontend developer, tech lead
+Laskuttaja;36-40;mies;15.0;Filosofian Maisteri, Tietojenkäsittelytiede;;;;;
+Laskuttaja;31-35;mies;10.0;Tietotekniikan diplomi-insinööri;;;;;
+Palkansaaja;41-45;mies;10.0;peruskoulu;Turku;1.0;1.0;6180.0;
+Palkansaaja;51-55;mies;25.0;DI;PK-seutu;1.0;0.0;7300.0;Backend developer
+Palkansaaja;36-40;mies;12.0;Maisteri;PK-seutu;1.0;0.4;6300.0;Kehityspäällikkö
+Palkansaaja;36-40;mies;15.0;m.sc.;PK-seutu;1.0;0.0;7300.0;Lead infrastructure engineer
+Palkansaaja;31-35;mies;13.0;Insinööri (AMK);PK-seutu;1.0;0.0;4300.0;*Senior Developer
+Palkansaaja;36-40;mies;14.0;AMK;;1.1;0.0;3700.0;*Senior Developer
+Palkansaaja;46-50;mies;2.0;Itseopiskeltu + Ammattikoulu + Työllisyyskurssi;PK-seutu;1.0;0.0;2600.0;Junior Software developer
+Palkansaaja;26-30;mies;5.0;AMK;PK-seutu;1.0;0.0;5100.0;*Full-stack Developer
+Palkansaaja;31-35;mies;7.0;Ylempi korkeakoulu;Tampere;1.0;0.2;5600.0;Android native developer
+Palkansaaja;31-35;mies;8.0;Maisterin tutkinto;PK-seutu;1.0;0.3;7400.0;Native Android Developer
+Palkansaaja;> 55v;mies;30.0;DI (tietotekniikka);PK-seutu;1.0;0.02;8000.0;Ohjelmistoarkkitehti
+Palkansaaja;51-55;mies;28.0;Alempi korkeakoulu;PK-seutu;1.0;0.3;8750.0;Ratkaisuarkkitehti
+Palkansaaja;36-40;mies;10.0;FM;PK-seutu;1.0;0.0;6500.0;Software Engineer
+Palkansaaja;26-30;mies;8.0;DI;PK-seutu;1.0;0.4;7500.0;Backend developer
+Palkansaaja;36-40;;15.0;DI;PK-seutu;0.8;0.2;5400.0;
+Palkansaaja;36-40;mies;8.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.35;7100.0;*Full-stack Developer
+Laskuttaja;31-35;mies;9.0;Yliopisto;;;;;
+Palkansaaja;41-45;;20.0;AMK;Oulu;1.0;1.0;6400.0;Architect / full stack lead developer
+Laskuttaja;26-30;mies;5.0;FM (TKT);;;;;
+Palkansaaja;21-25;mies;7.0;YO;PK-seutu;1.0;0.2;6000.0;Designer
+Palkansaaja;31-35;mies;5.0;Filosofian maisteri, tietojenkäsittelytiede;Joensuu;1.0;0.4;3500.0;Ohjelmistosuunnittelija
+Laskuttaja;26-30;mies;5.0;Yliopisto, tietojenkäsittelytiede;;;;;
+Palkansaaja;36-40;mies;15.0;Diplomi-insinööri;PK-seutu;0.96;0.15;11300.0;Staff engineer
+Laskuttaja;36-40;mies;16.0;AMK Tradenomi;;;;;
+Laskuttaja;36-40;mies;17.0;Ylioppilas;;;;;
+Palkansaaja;26-30;mies;4.0;TKT kandi;PK-seutu;1.0;0.05;5250.0;*Full-stack Developer
+Palkansaaja;41-45;;23.0;AMK;Kouvola;1.0;0.0;5300.0;*Full-stack Developer
+Palkansaaja;41-45;mies;16.0;Ylioppilas;Jyväskylä;0.8;0.9;4600.0;Senior Full Stack Developer, Architect, Yleismiesjantunen. Kaikki tuotetalon työt asiakasrajapinnasta arkkitehtuurisuunnittelun kautta palvelinten hallintaan.
+Palkansaaja;31-35;mies;15.0;AMK;PK-seutu;1.0;0.45;7000.0;Cloud Architect
+Palkansaaja;41-45;mies;15.0;Insinööri;Oulu;1.0;0.0;5400.0;*Full-stack Developer
+Palkansaaja;26-30;mies;2.0;Filosofian maisteri;Turku;1.0;0.15;3400.0;Software Developer
+Palkansaaja;31-35;mies;5.0;Insinööri (AMK);PK-seutu;1.0;0.05;5459.0;Software Developer
+Palkansaaja;26-30;mies;4.0;DI;Tampere;1.0;0.2;3708.0;*Full-stack Developer
+Palkansaaja;41-45;mies;20.0;Keskeneräinen tietojenkäsittelyntieteen kandi;PK-seutu;1.0;0.9;8500.0;Staff software engineer
+Palkansaaja;41-45;mies;20.0;Diplomi-insinööri;Tampere;1.0;0.5;5258.0;Software developer
+Palkansaaja;31-35;mies;9.0;Datanomi;Turku;1.0;0.2;4275.0;*Full-stack Developer
+Palkansaaja;36-40;mies;13.0;AMK (tietojenkäsittelyn tradenomi);Oulu;1.0;0.2;5700.0;*Full-stack Developer
+Palkansaaja;46-50;mies;4.0;Ammattikorkeakoulu;PK-seutu;1.0;0.4;4530.0;*Full-stack Developer
+Palkansaaja;26-30;mies;5.0;Tieto- ja viestintätekniikan insinööri;Tampere;1.0;1.0;3800.0;Ohjelmistokehittäjä
+Palkansaaja;41-45;mies;16.0;FM, TKT;PK-seutu;1.0;0.2;6000.0;Lead developer
+Palkansaaja;21-25;mies;2.0;Ammattikorkea;Jyväskylä;1.0;0.8;3605.0;*Full-stack Developer
+Palkansaaja;41-45;nainen;15.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.2;4700.0;Full stack developer, Scrum master
+Palkansaaja;26-30;mies;5.0;It-tradenomi;PK-seutu;1.0;0.05;4500.0;Software developer
+Palkansaaja;31-35;mies;;;PK-seutu;1.0;0.01;6434.0;Staff Engineer
+Palkansaaja;31-35;mies;8.0;Fm (matematiikka);Turku;1.0;0.99;5200.0;Software developer
+Laskuttaja;36-40;;15.0;;;;;;
+Palkansaaja;31-35;mies;8.0;Tekniikan kandidaatti;PK-seutu;1.0;0.05;5140.0;Technical Project Manager
+Palkansaaja;36-40;mies;13.0;;Turku;1.0;0.5;6400.0;*Full-stack Developer
+Palkansaaja;41-45;mies;4.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.3;3950.0;*Full-stack Developer
+Palkansaaja;36-40;mies;11.0;Ylempi korkeakoulututkinto, filosofian maisteri;PK-seutu;1.0;0.9;4900.0;*Full-stack Developer
+Palkansaaja;36-40;mies;14.0;Itseoppinut;Turku;1.0;0.1;6500.0;*Full-stack Developer
+Palkansaaja;31-35;mies;12.0;Msc;PK-seutu;1.0;0.01;7200.0;*Senior Developer
+Palkansaaja;36-40;mies;15.0;DI;PK-seutu;1.0;0.67;6000.0;*Full-stack Developer
+Laskuttaja;41-45;mies;10.0;Diplomi-insinööri, tietoliikennetekniikka, Aalto-yliopisto;;;;;
+Palkansaaja;41-45;mies;23.0;DI;PK-seutu;1.0;0.02;7000.0;Qt frontend developer
+Palkansaaja;26-30;mies;7.0;Diplomi-insinööri;PK-seutu;1.0;0.8;4300.0;Data engineer
+Laskuttaja;41-45;mies;10.0;MSc Computer Science;;;;;
+Palkansaaja;21-25;nainen;4.0;;Tampere;0.6;0.1;3230.0;*Full-stack Developer
+Palkansaaja;31-35;mies;11.0;Tietotekniikan DI;Tampere;1.0;1.0;5100.0;*Full-stack Developer
+Palkansaaja;26-30;mies;5.0;Ammattikorkeakoulu;PK-seutu;1.0;0.0;7300.0;Software Engineer
+Palkansaaja;36-40;mies;9.0;;PK-seutu;0.8;0.2;5700.0;*Full-stack Developer
+Palkansaaja;26-30;mies;8.0;Ammattikoulu;PK-seutu;1.0;0.01;7513.0;Senior front end developer
+Palkansaaja;26-30;mies;1.0;AMK-insinööri;;1.0;0.4;3200.0;Software Designer
+Laskuttaja;26-30;mies;11.0;Datanomi;;;;;
+Palkansaaja;41-45;mies;19.0;Tradenomi;PK-seutu;1.0;0.0;5400.0;*Full-stack Developer
+Palkansaaja;26-30;mies;7.0;Kandi;Tampere;1.0;0.5;5600.0;Software developer
+Palkansaaja;36-40;;15.0;;;1.0;0.1;6500.0;Senior DevOps Engineer
+Palkansaaja;< 15v;mies;2.0;;Jyväskylä;0.95;0.8;1800.0;Junior developer
+Palkansaaja;31-35;nainen;6.0;Maisteri toiselta alalta;PK-seutu;1.0;0.1;6500.0;Senior Android Developer
+Palkansaaja;31-35;;10.0;FM;Tampere;0.8;0.25;3680.0;UX Designer
+Palkansaaja;36-40;mies;12.0;DI;Tampere;1.0;0.0;5300.0;DevOps
+Palkansaaja;31-35;mies;9.0;Tietotekniikan insinööri;PK-seutu;1.0;0.0;4600.0;Software developer
+Palkansaaja;31-35;nainen;1.0;AW Academy;PK-seutu;1.0;0.3;3050.0;AWS Cloud Developer
+Palkansaaja;36-40;mies;15.0;2x ins.;PK-seutu;1.0;0.3;7000.0;DevOps
+Laskuttaja;26-30;mies;8.0;AMK-tradenomi;;;;;
+Palkansaaja;31-35;mies;8.0;Tietotekniikan insinööri;PK-seutu;1.0;0.0;5600.0;Software Engineer
+Palkansaaja;31-35;mies;12.0;datanomi, ja amk-dropout;PK-seutu;0.9670000000000001;0.2;4384.0;Sovellusasiantuntija (pilviarkkitehti, fullstack, jokapaikanhöylä)
+Palkansaaja;26-30;mies;3.0;Luonnontieteiden kandidaatti, tietotekniikka;PK-seutu;1.0;0.05;4200.0;*Full-stack Developer
+Palkansaaja;41-45;mies;10.0;Diplomi-insinööri;PK-seutu;1.0;0.03;7000.0;AWS Cloud Architect
+Palkansaaja;26-30;mies;6.0;Tekniikan kandi, tuotantotalous;PK-seutu;1.0;0.6;5100.0;Data Engineer
+Palkansaaja;31-35;;12.0;Tradenomi, alempi korkeakoulututkinto;PK-seutu;1.0;0.8;6400.0;Software architect
+Palkansaaja;31-35;mies;12.0;Diplomi-Insinööri;Tampere;1.0;0.3;6700.0;Senior Systems Specialist / Cloud Architect
+Palkansaaja;26-30;mies;6.0;Diplomi-insinööri;PK-seutu;1.0;0.25;5253.0;Senior Backend Engineer
+Palkansaaja;36-40;mies;8.0;Amis;Full remote;1.0;1.0;4000.0;*Full-stack Developer
+Palkansaaja;46-50;;25.0;;PK-seutu;1.0;0.6;8700.0;Appsec
+Palkansaaja;41-45;mies;16.0;Filosofian maisteri;Tampere;1.0;0.0;7500.0;Backend developer
+Laskuttaja;36-40;;13.0;DI;;;;;
+Palkansaaja;36-40;mies;15.0;Tekniikan ylioppilas;PK-seutu;1.0;0.9;5600.0;Lead developer
+Palkansaaja;26-30;mies;2.0;Yliopisto, melkein valmis DI;Turku;0.8;0.25;4000.0;DevSecOps Engineer
+Palkansaaja;21-25;mies;4.0;Tietotekniikan kandi, lähes valmis DI;Tampere;0.8;0.0;3300.0;Software developer
+Palkansaaja;36-40;mies;10.0;ylioppilas & ammattitutkinto, yliopisto-opintoja;Oulu;1.0;0.01;7400.0;Backend / cloud developer
+Palkansaaja;36-40;nainen;7.0;Luonnontieteiden kandi;Turku;1.0;0.7;5600.0;Johtaja
+Laskuttaja;31-35;mies;10.0;Datanomi / media-assistentti;;;;;
+Palkansaaja;31-35;mies;9.0;Insinööri (AMK), mediatekniikka;PK-seutu;1.0;0.3;5780.0;*Devops Consultant
+Palkansaaja;41-45;mies;15.0;Diplomi-insinööri;PK-seutu;1.0;0.4;5300.0;DevOps Engineer
+Palkansaaja;31-35;mies;5.0;Diplomi-insinööri;PK-seutu;1.0;0.1;6745.0;Engineering Manager
+Palkansaaja;36-40;mies;2.0;korkeakoulututkinto;Turku;1.0;0.6;3615.0;Software engineer
+Palkansaaja;36-40;mies;6.0;;PK-seutu;1.0;0.01;7267.0;Frontend lead developer, tech lead
+Palkansaaja;31-35;mies;6.0;Tieto- ja viestintätekniikan insinööri (AMK);PK-seutu;1.0;0.02;5350.0;Software developer
+Palkansaaja;31-35;mies;1.0;it-tradenomi, melkein valmis;PK-seutu;0.8;0.0;2400.0;*Full-stack Developer
+Palkansaaja;36-40;mies;19.0;Ins;PK-seutu;1.0;0.2;7000.0;Lead
+Palkansaaja;26-30;mies;5.0;Alempi korkeakoulututkinto;Berliini;1.0;0.0;6700.0;Backend developer
+Palkansaaja;31-35;mies;9.0;M. Sc ;Turku;1.0;1.0;5915.0;Senior Infrastructure Engineer (DevOps)
+Laskuttaja;21-25;mies;6.0;Tekniikan kandidatti;;;;;
+Palkansaaja;36-40;mies;12.0;AMK insinööri;PK-seutu;1.0;0.1;5300.0;Senior Full Stack Developer
+Palkansaaja;41-45;mies;19.0;Filosofian Tohtori;Tampere;1.0;0.0;6750.0;Senior Software Architect
+Laskuttaja;31-35;;4.0;Lukio;;;;;
+Laskuttaja;36-40;mies;15.0;Tietotekniikan kandi;;;;;
+Palkansaaja;36-40;mies;4.0;media-assistentti;PK-seutu;1.0;0.33;4250.0;Frontend developer
+Palkansaaja;36-40;mies;6.0;AMK;Tampere;1.0;0.0;4076.0;Software developer
+Palkansaaja;36-40;mies;17.0;Lukio;PK-seutu;1.0;0.05;7650.0;Dev Team Lead
+Palkansaaja;26-30;mies;5.0;Tietotekniikan kandidaatti, 2. vuoden DI-opiskelija;PK-seutu;1.0;0.0;4400.0;Backend developer
+Laskuttaja;41-45;mies;15.0;AMK (ohjelmistotekniikka);;;;;
+Palkansaaja;26-30;;5.0;Tietotekniikan diplomi-insinööri;PK-seutu;1.0;0.33;3900.0;Software engineer
+Palkansaaja;36-40;mies;10.0;Filosofian maister (tietojenkäsittelytiede);Tampere;1.0;0.2;7200.0;Lead platform engineer
+Palkansaaja;41-45;mies;20.0;Tekniikan tohtori;Tampere;1.0;1.0;5389.0;Suunnittelija (full stack developer)
+Palkansaaja;26-30;mies;6.0;alempi korkeakoulututkinto;PK-seutu;1.0;0.9;4700.0;Fullstack software developer
+Palkansaaja;41-45;mies;18.0;diplomi-insinööri;PK-seutu;1.0;0.1;6300.0;Cloud/devops architect
+Palkansaaja;36-40;nainen;20.0;DI;PK-seutu;1.0;0.05;5210.0;Product Owner
+Palkansaaja;31-35;muu;9.0;Ammattikoulu;PK-seutu;1.0;0.8;5500.0;Director of Development 
+Laskuttaja;46-50;mies;23.0;YO, yliopisto-opintoja;;;;;
+Palkansaaja;36-40;mies;16.0;DI;Tampere;1.0;0.3;4775.0;Lead developer
+Palkansaaja;41-45;mies;20.0;KTM;Jyväskylä;0.8;0.75;4575.0;Koodaava arkkitehti
+Palkansaaja;21-25;mies;4.0;DI;Tampere;1.0;0.05;4300.0;Backend Developer
+Laskuttaja;41-45;mies;16.0;AMK;;;;;
+Palkansaaja;36-40;nainen;13.0;Datanomi ;PK-seutu;1.0;0.0;5200.0;Service Manager
+Palkansaaja;31-35;mies;15.0;Ylioppilas;Tampere;1.0;0.2;4680.0;*Senior Developer
+Palkansaaja;31-35;mies;9.0;AMK;PK-seutu;1.0;0.1;6000.0;Senior Fullstack Developer
+Laskuttaja;41-45;mies;22.0;Tradenomi;;;;;
+Palkansaaja;31-35;mies;8.0;Yliopisto;Turku;1.0;0.2;5700.0;*Full-stack Developer
+Laskuttaja;21-25;mies;6.0;Ylioppilas, ollut kirjoilla yliopistossa;;;;;
+Palkansaaja;41-45;mies;17.0;FM (tietojenkäsittelytiede);Turku;1.0;0.0;6900.0;*Senior Developer
+Palkansaaja;31-35;mies;15.0;;Tampere;1.0;0.0;5000.0;Software developer
+Palkansaaja;36-40;mies;10.0;;Jyväskylä;1.0;0.4;;*Senior Developer
+Palkansaaja;21-25;muu;3.0;lukio ja keskeneräinen tietotekniikan kandidaatin tutkinto;Tampere;0.5;0.3;3157.45;Systems specialist
+Palkansaaja;26-30;mies;4.0;Yliopisto;Tampere;0.8;0.9;3600.0;*Full-stack Developer
+Palkansaaja;36-40;mies;6.0;Tietojenkäsittelyn tradenomi;PK-seutu;1.0;0.0;7500.0;*Full-stack Developer
+Palkansaaja;31-35;mies;18.0;Peruskoulu;PK-seutu;1.0;0.03;9321.0;Lead software developer
+Palkansaaja;26-30;mies;5.0;Tietojenkäsittely FM;PK-seutu;1.0;0.05;4900.0;
+Laskuttaja;36-40;mies;13.0;Tietoliikennetekniikan maisteri;;;;;
+Palkansaaja;41-45;;18.0;Lukio;PK-seutu;1.0;0.4;7140.0;Lead developer
+Palkansaaja;36-40;mies;7.0;FT, fysiikka;PK-seutu;0.9;0.25;5220.0;Data Scientist
+Palkansaaja;51-55;mies;33.0;Tekn yo;Tampere;1.0;0.05;6527.0;Security platform architect
+Laskuttaja;26-30;mies;8.0;maisteri;;;;;
+Laskuttaja;31-35;mies;9.0;Yliopisto;;;;;
+Palkansaaja;31-35;mies;8.0;AMK;PK-seutu;1.0;0.0;7875.0;Senior DevOps Engineer
+Palkansaaja;41-45;mies;20.0;diplomi-insinööri;PK-seutu;1.0;0.1;5000.0;Full stack / arkkitehti / devops / kaikki liittyvä
+Palkansaaja;31-35;mies;10.0;ylioppilas;Oulu;1.0;0.05;6700.0;*Senior Developer
+Palkansaaja;26-30;mies;10.0;Datanomi;Turku;1.0;0.0;7200.0;Frontend developer
+Palkansaaja;36-40;mies;5.0;Diplomi-Insinööri;PK-seutu;1.0;0.05;5700.0;Software Engineer
+Palkansaaja;31-35;mies;10.0;Maisteritutkinto;CA, USA;0.4;0.75;11150.0;Staff Engineer
+Palkansaaja;31-35;;7.0;insinööri;PK-seutu;1.0;0.0;5330.0;Cloud
+Palkansaaja;31-35;mies;8.0;Yliopisto dropout;PK-seutu;1.0;0.8;6000.0;Data Lead
+Palkansaaja;36-40;mies;17.0;Diplomi-insinööri;Tampere;1.0;0.1;5200.0;*Senior Developer
+Palkansaaja;26-30;mies;3.0;Diplomi insinööri;PK-seutu;1.0;0.2;4500.0;Cloud Security Engineer
+Palkansaaja;36-40;mies;9.0;Ammattikorkeakoulukarkuri;PK-seutu;1.0;0.5;4400.0;*Full-stack Developer
+Palkansaaja;31-35;mies;8.0;KTM;Dublin, Irlanti;1.2;0.9;10500.0;Account Executive
+Palkansaaja;31-35;;3.0;Ylioppilas;PK-seutu;1.0;0.25;4500.0;*Full-stack Developer
+Palkansaaja;31-35;mies;1.0;Opiskelen yliopistossa;Oulu;1.0;0.1;2850.0;*Full-stack Developer
+Palkansaaja;36-40;mies;13.0;Ammattikoulu;PK-seutu;1.0;0.0;7800.0;UX Engineer
+Palkansaaja;36-40;mies;18.0;Insinööri amk;PK-seutu;1.0;0.25;6500.0;Hands-on architect
+Palkansaaja;31-35;;11.0;DI;PK-seutu;1.0;1.0;5300.0;CTO
+Laskuttaja;31-35;mies;8.0;DI;;;;;
+Palkansaaja;41-45;mies;20.0;Ei ole;PK-seutu;1.0;0.3;4700.0;Software architect
+Palkansaaja;36-40;mies;16.0;Ammatillinen perustutkinto;PK-seutu;1.0;0.15;6350.0;*Devops Consultant
+Palkansaaja;26-30;mies;8.0;Tieotekniikan DI;Turku;1.0;0.2;3150.0;Lead developer, bacend & devops
+Palkansaaja;31-35;mies;10.0;Diplomi-insinööri;PK-seutu;1.0;0.2;6000.0;Software Architect
+Palkansaaja;26-30;mies;2.0;Tietotekniikan diplomi-insinööri;Tampere;1.0;0.5;4300.0;Frontend developer
+Laskuttaja;41-45;mies;20.0;Diplomi-insinööri;;;;;
+Palkansaaja;41-45;nainen;6.0;korkeakoulu;PK-seutu;1.0;0.1;4517.0;Software developer
+Palkansaaja;36-40;;8.0;AMK;PK-seutu;1.0;0.05;4000.0;*Full-stack Developer
+Laskuttaja;36-40;mies;12.0;Masters of Science;;;;;
+Palkansaaja;31-35;mies;9.0;Insinööri, AMK;Turku;1.0;0.8;4400.0;Web Developer
+Laskuttaja;46-50;mies;23.0;Ylioppilas, Yliopisto-opintoja;;;;;
+Palkansaaja;31-35;mies;13.0;Alempi korkeakoulututkinto;Tampere;1.0;0.1;5825.0;*Senior Developer
+Palkansaaja;41-45;mies;24.0;Korkeakoulu;PK-seutu;1.0;0.8;7200.0;*Full-stack Developer
+Palkansaaja;31-35;mies;11.0;Ylioppilas;Tampere;1.0;0.2;6900.0;DevOps Lead
+Palkansaaja;36-40;mies;6.0;Ammattikoulu (Datanomi);PK-seutu;1.0;0.0;5800.0;Software Engineer
+Palkansaaja;41-45;mies;16.0;Tietotekniikan DI;PK-seutu;1.0;0.01;5350.0;Software architect
+Laskuttaja;26-30;mies;5.0;;;;;;
+Palkansaaja;41-45;mies;16.0;AMK, bachelor of engineering;PK-seutu;1.0;0.15;7900.0;Senior full stack developer
+Palkansaaja;36-40;mies;17.0;ylempi korkeakoulututkinto;Tampere;1.0;0.1;5770.0;
+Palkansaaja;36-40;mies;6.0;AMK;Jyväskylä;0.8;0.05;2800.0;WordPress developer
+Palkansaaja;26-30;mies;7.0;Valtiotieteiden maisteri;PK-seutu;1.0;0.5;5900.0;Data engineer
+Palkansaaja;31-35;mies;6.0;KTM;PK-seutu;1.0;0.2;4500.0;Data Analyst
+Palkansaaja;36-40;mies;16.0;Lukio;Turku;1.0;0.8;3950.0;Lead UX Designer
+Palkansaaja;31-35;mies;9.0;Tietotekniikan diplomi-insinööri;Turku;1.0;0.9;5300.0;*Full-stack Developer
+Palkansaaja;26-30;mies;5.0;Insinööri;PK-seutu;1.0;0.0;4500.0;Integration developer
+Palkansaaja;26-30;mies;6.0;Insinööri;Turku;1.0;0.7;5300.0;Software developer
+Palkansaaja;26-30;mies;8.0;Diplomi-insinööri;PK-seutu;1.0;0.1;6000.0;Team lead & full stack developer
+Palkansaaja;21-25;nainen;1.0;AMK tietotekniikan insinööri, viimeisen vuoden opiskelija;Tampere;0.5;0.3;1200.0;Software developer
+Palkansaaja;41-45;nainen;5.0;Yliopistotutkinto;PK-seutu;1.0;0.1;6700.0;Data engineer
+Laskuttaja;41-45;mies;20.0;DI;;;;;
+Palkansaaja;46-50;mies;20.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.8;11000.0;
+Palkansaaja;36-40;mies;15.0;Tietojenkäsittelytieteen FM;Tampere;1.0;0.1;4450.0;*Full-stack Developer
+Palkansaaja;36-40;mies;13.0;Tietotekniikan diplomi-insinööri ;Tampere;1.0;0.1;5281.0;Liiketoimintavetäjä / Ohjelmistoarkkitehti
+Palkansaaja;26-30;mies;12.0;Datanomi;Tampere;1.0;0.8;4800.0;Team lead
+Laskuttaja;41-45;mies;18.0;DI;;;;;
+Palkansaaja;36-40;mies;11.0;DI;;1.0;0.0;7666.0;*Senior Developer
+Palkansaaja;31-35;mies;8.0;AMK;PK-seutu;1.0;1.0;6300.0;*Senior Developer
+Palkansaaja;31-35;mies;8.0;ammattikorkeakoulu (tradenomi);Tampere;1.0;0.2;4800.0;Software developer (.net)
+Palkansaaja;31-35;nainen;1.0;datanomi;PK-seutu;1.0;0.1;3000.0;Junior Web Developer
+Palkansaaja;36-40;mies;12.0;AMK;Jyväskylä;1.0;0.8;4700.0;Software Developer
+Palkansaaja;26-30;mies;6.0;Ammattikoulu, Datanomi;PK-seutu;0.9;0.05;3500.0;Koordinaattori/Sovellusasiantuntija. Nimike virallisesti koordinaattori mutta vastuussa ITSM Ohjelmiston kehityksestä. Pääasiallisesti teen Sovellusasiantuntijan töitä.
+Palkansaaja;36-40;mies;14.0;Tietotekniikan insinööri (BSc);Jyväskylä;1.0;0.0;5700.0;Software developer
+Palkansaaja;26-30;nainen;7.0;Tietojenkäsittelytieteiden maisteri;Tampere;1.0;0.1;5300.0;*Full-stack Developer
+Palkansaaja;26-30;mies;7.0;Kauppakorkeakoulu;PK-seutu;1.0;0.8;7000.0;Development manager
+Palkansaaja;31-35;mies;9.0;Tekniikan kandidaatti;Tampere;1.0;0.2;6000.0;Team Tech Lead
+Palkansaaja;46-50;mies;25.0;Ammattikorkeakoulu;PK-seutu;1.0;0.2;5500.0;Software developer
+Palkansaaja;26-30;mies;6.0;Tieto- ja viestintätekniikan insinööri;Turku;1.0;0.9;4940.0;Lead software architect
+Palkansaaja;26-30;mies;3.0;Master's in Software Engineering and Digital Transformation;Turku;1.0;0.2;5000.0;Mobile developer (Flutter)
+Palkansaaja;15-20;mies;2.0;Ohjelmistokehittäjä;PK-seutu;1.0;0.1;2000.0;*Full-stack Developer
+Laskuttaja;31-35;mies;8.0;Tietotekniikan diplomi-insinööri;;;;;
+Palkansaaja;36-40;mies;14.0;;Tampere;1.0;;5600.0;Frontend developer
+Palkansaaja;31-35;mies;8.0;diplomi-insinööri;PK-seutu;1.0;0.2;5600.0;*Full-stack Developer
+Palkansaaja;31-35;mies;8.0;Luonnontieteiden ylioppilas;Tampere;1.0;0.95;5000.0;Senior DevOps Consultant
+Palkansaaja;36-40;mies;15.0;FM (tietojenkäsittelytiede);PK-seutu;1.0;0.8;7800.0;Infra ja palvelut (IaaS PaaS)
+Palkansaaja;31-35;nainen;8.0;it-tradenomi;PK-seutu;1.0;0.2;5500.0;Frontend developer
+Palkansaaja;46-50;mies;20.0;;Tampere;1.0;0.0;3200.0;Web developer
+Palkansaaja;26-30;mies;3.0;tietojenkäsittelytieteen maisteri;Turku;1.0;0.95;3500.0;Android developer, embedded c++ developer ja full stack developer
+Palkansaaja;41-45;;23.0;AMK;Tampere;1.0;0.05;5300.0;Ohjelmistoarkkitehti
+Laskuttaja;41-45;nainen;8.0;AMK;;;;;
+Laskuttaja;46-50;mies;37.0;Datanomi;;;;;
+Palkansaaja;26-30;mies;5.0;Ylempi korkeakoulututkinto;Jyväskylä;1.0;1.0;4600.0;Embedded software developer
+Palkansaaja;26-30;mies;7.0;Ammattikoulu;PK-seutu;0.8;0.05;6300.0;*Full-stack Developer
+Palkansaaja;21-25;mies;4.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.1;6200.0;Lead developer
+Palkansaaja;26-30;mies;6.0;Diplomi-insinööri;Tampere;1.0;0.9;5200.0;Senior fullstack developer
+Palkansaaja;26-30;mies;5.0;Diplomi-insinööri;PK-seutu;1.0;1.0;5350.0;Software developer
+Palkansaaja;36-40;nainen;3.0;AMK;Tampere;1.0;0.0;3600.0;*Full-stack Developer
+Palkansaaja;31-35;mies;10.0;DI;PK-seutu;1.0;0.6;5000.0;Lead developer
+Laskuttaja;36-40;mies;12.0;DI;;;;;
+Palkansaaja;26-30;nainen;2.0;;PK-seutu;1.0;0.1;4300.0;*Full-stack Developer
+Laskuttaja;46-50;mies;26.0;Ammatillinen tutkinto;;;;;
+Palkansaaja;31-35;mies;10.0;Filosofian Maisteri (Tietotekniikka);PK-seutu;1.0;0.2;6700.0;Team Lead / Senior Full-Stack Developer
+Palkansaaja;31-35;mies;4.0;Tietojenkäsittelytiedo @ Helsingin Yliopisto;PK-seutu;1.0;1.0;4900.0;Software Developer
+Palkansaaja;26-30;mies;6.0;Maisteritutkinto Aallon Tietotekniikalta, joskin tämä saavutettu työskentelyn ohella, eli papereiden pohjalta olen ollut pätevä vain joitain kuukausia :);PK-seutu;0.8;0.15;4100.0;Software Developer
+Palkansaaja;36-40;mies;13.0;amk;PK-seutu;1.0;0.25;6300.0;Senior software engineer
+Palkansaaja;31-35;mies;7.0;amk;PK-seutu;1.0;0.75;6000.0;Software developer / team lead
+Palkansaaja;26-30;mies;5.0;DI;Turku;1.0;0.5;4663.0;*Full-stack Developer
+Palkansaaja;31-35;mies;7.0;IT-opiskelija;PK-seutu;1.0;0.3;6000.0;Software Engineer and Partner
+Palkansaaja;31-35;nainen;3.0;Bootcamp;PK-seutu;1.0;0.2;4500.0;Frontend developer
+Palkansaaja;41-45;mies;20.0;alempi korkeakoulututkinto;PK-seutu;1.0;0.0;10700.0;Principal software engineer
+Palkansaaja;41-45;;25.0;Insinööri;PK-seutu;1.0;0.02;6200.0;Backend developer
+Palkansaaja;31-35;mies;4.0;Tekniikan kandidaatti, läheltä liippaavalta alalta;PK-seutu;0.7;0.5;3000.0;
+Palkansaaja;26-30;mies;15.0;Ylioppilas;PK-seutu;1.0;0.3;7000.0;Lead ML Engineer
+Palkansaaja;26-30;mies;8.0;Diplomi-insinööri;Tampere;1.0;0.9;5650.0;Senior Software Engineer / Embedded
+Palkansaaja;26-30;mies;5.0;Tietotekniikan DI;Turku;1.0;0.9;4750.0;*Full-stack Developer
+Palkansaaja;36-40;mies;9.0;Filosofian maisteri (tietojenkäsittelytiede);PK-seutu;1.0;0.2;5123.0;*Senior Developer
+Palkansaaja;31-35;mies;6.0;Tietojenkäsittelytiede FM;Turku;1.0;0.15;4500.0;*Full-stack Developer
+Palkansaaja;36-40;mies;0.0;AMK-koulutus muulta alalta;Kuopio;1.0;0.1;3000.0;*Full-stack Developer
+Palkansaaja;31-35;mies;1.0;Alempi korkeakoulututkinto;PK-seutu;1.0;0.2;3133.0;Consultant
+Laskuttaja;31-35;mies;4.0;Lipasto;;;;;
+Palkansaaja;36-40;mies;2.0;AMK;PK-seutu;1.0;0.0;4000.0;Automation developer
+Palkansaaja;26-30;mies;3.0;BIT, tradenomi AMK;PK-seutu;1.0;0.1;3500.0;Software Engineer
+Laskuttaja;31-35;mies;15.0;Yliopisto Kandidaatti (Yhdysvalloissa);;;;;
+Palkansaaja;41-45;mies;17.0;Yliopisto;Jyväskylä;1.0;0.0;5900.0;Software Architect
+Palkansaaja;36-40;mies;10.0;FM (tietojenkäsittelytiede);Turku;1.0;0.1;4750.0;*Full-stack Developer
+Palkansaaja;41-45;nainen;1.0;Alempi korkeakoulututkinto;PK-seutu;1.0;0.4;3200.0;Fullstack software designer
+Palkansaaja;31-35;mies;10.0;Insinööri (AMK);PK-seutu;1.0;0.05;4600.0;Senior Game Programmer
+Palkansaaja;36-40;mies;4.0;AMK;PK-seutu;1.0;0.2;4100.0;Backend developer
+Laskuttaja;26-30;mies;3.0;Diplomi-Insinööri;;;;;
+Palkansaaja;31-35;mies;11.0;DI (TuTa);PK-seutu;1.0;0.8;6000.0;CTO
+Palkansaaja;26-30;mies;4.0;Elektroniikka-asentaja amis;PK-seutu;1.0;0.05;6500.0;Senior Full Stack Developer
+Palkansaaja;36-40;mies;9.0;AMK;PK-seutu;1.0;0.1;5150.0;Senior Frontend Developer
+Palkansaaja;36-40;mies;8.0;AMK;PK-seutu;1.0;0.5;5468.0;React Developer
+Palkansaaja;21-25;mies;2.0;AMK;PK-seutu;1.0;0.95;3500.0;Product Owner
+Laskuttaja;41-45;mies;20.0;DI, tietotekniikka;;;;;
+Palkansaaja;36-40;mies;12.0;DI;PK-seutu;0.9;0.5;7750.0;Manager
+Palkansaaja;31-35;mies;5.0;;Turku;1.0;0.5;4100.0;
+Palkansaaja;26-30;mies;6.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.4;5000.0;*Full-stack Developer
+Palkansaaja;31-35;nainen;9.0;DI;PK-seutu;1.0;0.2;5210.0;*Full-stack Developer
+Palkansaaja;31-35;mies;9.0;AMK;PK-seutu;1.0;0.2;5400.0;*Full-stack Developer
+Laskuttaja;36-40;mies;15.0;TiTe DI;;;;;
+Palkansaaja;31-35;mies;3.0;Ammattikorkeakoulu, tietojenkäsittelyn tradenomi;PK-seutu;1.0;0.05;4000.0;Security consultant
+Palkansaaja;41-45;mies;18.0;Diplomi-insinööri;PK-seutu;1.0;0.9;7485.0;Principal Consultant
+Palkansaaja;31-35;mies;6.0;Tieto- ja viestintätekniikan insinööri (AMK);Turku;0.8;0.0;4040.0;Software developer
+Palkansaaja;21-25;mies;5.0;;PK-seutu;1.0;0.25;3510.0;*Full-stack Developer
+Palkansaaja;31-35;mies;10.0;Datanomi;PK-seutu;1.0;0.0;4250.0;Lead developer
+Palkansaaja;36-40;mies;11.0;Filosofian maisteri, tietojenkäsittelytiede;Turku;1.0;0.2;5500.0;Software developer
+Palkansaaja;36-40;mies;15.0;Ammattikorkeakoulu;PK-seutu;1.0;0.1;6900.0;Data-arkkitehti
+Palkansaaja;41-45;mies;20.0;Tietotekniikka;PK-seutu;1.0;0.1;6300.0;Software Developer
+Palkansaaja;41-45;nainen;1.0;ammattikoulu;Tampere;1.0;0.2;3200.0;Software developer
+Palkansaaja;26-30;mies;5.0;Toinen aste;PK-seutu;1.0;0.05;4000.0;*Full-stack Developer
+Palkansaaja;26-30;mies;4.0;Luonnontieteiden kandidaatti;PK-seutu;;1.0;5400.0;Software Developer
+Palkansaaja;46-50;mies;20.0;DI;Tampere;1.0;0.2;5100.0;Software architect
+Palkansaaja;21-25;mies;3.0;Tekniikan kandi;PK-seutu;1.0;1.0;3000.0;Junior Software developer
+Palkansaaja;31-35;mies;4.0;KTM;PK-seutu;1.0;0.5;4800.0;Data engineer
+Palkansaaja;26-30;;7.0;Ammattikoulu;PK-seutu;1.0;0.1;4200.0;Web developer
+Palkansaaja;26-30;mies;4.0;Filosofian Maisteri (Kyberturvallisuus);Tampere;1.0;0.01;5000.0;Cyber Security Specialist
+Palkansaaja;31-35;mies;9.0;Filosofian maisteri (fysiikka);Jyväskylä;1.0;1.0;6300.0;Data science lead
+Palkansaaja;36-40;mies;7.0;Yliopisto;PK-seutu;0.8;0.15;4240.0;Full stack software development
+Palkansaaja;31-35;mies;12.0;Ammattikoulu;Turku;1.0;0.0;3734.0;Drupal Developer
+Palkansaaja;31-35;mies;5.0;Korkeakoulu ;Turku;1.0;0.0;4300.0;Software developer 
+Laskuttaja;31-35;mies;10.0;Diplomi-insinööri;;;;;
+Palkansaaja;31-35;mies;11.0;ammattikorkeakoulu;PK-seutu;1.0;0.0;4600.0;Software developer
+Palkansaaja;26-30;mies;7.0;Tietotekniikan diplomi-insinööri;Tampere;1.0;0.5;4600.0;*Full-stack Developer
+Palkansaaja;41-45;mies;17.0;Ammattikorkeakoulututkinto;Tampere;1.0;1.0;5025.34;Test Automation Developer
+Palkansaaja;26-30;nainen;0.0;;PK-seutu;1.0;0.9;3800.0;Frontend web developer
+Palkansaaja;36-40;mies;25.0;Filosofian maisteri (Tietojenkäsittelytiede);PK-seutu;1.0;0.2;12500.0;Pilvi-infrastruktuurista vastaavan tiimin lead
+Palkansaaja;26-30;mies;7.0;Yliopisto-opintoja;Jyväskylä;1.0;0.4;4500.0;Frontend developer
+Palkansaaja;41-45;;25.0;Yliopisto;Turku;1.0;0.03;7100.0;Software architect
+Palkansaaja;36-40;mies;12.0;Diplomi-insinööri;PK-seutu;1.0;0.9;6283.0;Lead backend developer (python)
+Palkansaaja;36-40;nainen;1.0;Perustutkinto Ammattikoulusta ;Kuusamo;1.0;0.0;2456.0;*Full-stack Developer
+Palkansaaja;26-30;mies;2.0;Insinööri (AMK);Tampere;1.0;0.4;3750.0;*Full-stack Developer
+Palkansaaja;36-40;mies;10.0;FM, tietojenkäsittelytiede;PK-seutu;1.0;0.5;5100.0;*Senior Developer
+Laskuttaja;26-30;mies;7.0;Tietotekniikan DI;;;;;
+Palkansaaja;21-25;mies;4.0;TJT-opintojen maisterivaihe kohta paketissa!;PK-seutu;1.0;0.0;3300.0;
+Palkansaaja;31-35;mies;6.0;Ammattikorkeakoulu;Tampere;1.0;0.2;4500.0;Frontend developer
+Palkansaaja;36-40;mies;5.0;;PK-seutu;1.0;0.2;4736.0;*Full-stack Developer
+Palkansaaja;41-45;mies;18.0;Yliopisto-opintoja (kesken);PK-seutu;1.0;0.25;8000.0;Software Architect
+Palkansaaja;41-45;mies;10.0;;Turku;1.0;0.1;4200.0;Front-end / Full-stack
+Palkansaaja;36-40;mies;12.0;Automaatiotekniikan diplomi-insinööri;Tampere;1.0;0.01;4936.53;*Full-stack Developer
+Palkansaaja;41-45;mies;6.0;Ylempi korkeakoulututkinto (tietotekniikan Master of Science);PK-seutu;0.8;0.0;3910.0;*Full-stack Developer
+Palkansaaja;26-30;mies;4.0;DI;PK-seutu;1.0;0.2;5200.0;Software developer
+Palkansaaja;31-35;;8.0;Tekniikan kandidaatti;Tampere;1.0;0.2;6100.0;Senior Full Stack Software Engineer
+Palkansaaja;46-50;nainen;26.0;;Turku;1.0;0.1;5900.0;
+Palkansaaja;31-35;mies;5.0;;PK-seutu;1.0;0.0;5000.0;*Senior Developer
+Palkansaaja;36-40;mies;6.0;Luonnontieteiden kandidaatti;Jyväskylä;0.8;0.5;4220.0;Testiautomaatiokehittäjä
+Palkansaaja;31-35;mies;18.0;yliopisto-dropout;Turku;1.0;0.5;6000.0;Full-stack lead dev
+Palkansaaja;21-25;nainen;2.0;Muotoilija (AMK);PK-seutu;1.0;0.5;3320.0;Junior käyttöliittymäsuunnittelija
+Palkansaaja;36-40;mies;16.0;Insinööri (AMK);PK-seutu;1.0;0.4;7000.0;Designer / Front-end developer
+Laskuttaja;36-40;mies;16.0;DI;;;;;
+Palkansaaja;51-55;mies;30.0;peruskoulu;PK-seutu;1.0;0.05;4800.0;Integration developer
+Palkansaaja;36-40;mies;15.0;amk;;1.0;0.15;5500.0;*Full-stack Developer
+Palkansaaja;31-35;mies;8.0;Maisteri;Oulu;1.0;0.4;4400.0;Cloud engineer, esimies
+Palkansaaja;31-35;nainen;0.0;Filosofian maisteri, tietojenkäsittelytieteet;PK-seutu;1.0;0.8;2548.0;*Full-stack Developer
+Palkansaaja;46-50;mies;4.0;Insinööri;Oulu;1.0;0.05;3160.0;Test developer
+Palkansaaja;31-35;mies;13.0;Tietotekniikan AMK insinööri;Seinäjoki;1.0;0.0;4500.0;*Full-stack Developer
+Palkansaaja;21-25;mies;1.0;Tradenomi;Lappeenranta;1.0;0.01;2900.0;Full Stack Web/native Software Developer
+Palkansaaja;31-35;mies;8.0;ammattikoulu;Tampere;0.8;0.8;4150.0;Tuotantojohtaja
+Palkansaaja;31-35;mies;10.0;Teekkari, ei valmistunut;PK-seutu;1.0;0.7;5100.0;Senior software engineer
+Laskuttaja;36-40;mies;12.0;FM;;;;;
+Palkansaaja;36-40;mies;11.0;DI;Tampere;1.0;0.0;5800.0;*Full-stack Developer
+Palkansaaja;36-40;mies;17.0;FM;PK-seutu;1.0;0.01;13300.0;Software Development Engineer III
+Palkansaaja;46-50;mies;25.0;Alempi korkeakoulututkinto;PK-seutu;1.0;0.3;5300.0;Software developer
+Palkansaaja;31-35;mies;13.0;Tietoliikenne insinööri;Etä;1.0;0.0;9600.0;Software/DevOps Engineer
+Palkansaaja;21-25;mies;1.0;Tekniikan kandidaatti;Tampere;0.8;0.8;2000.0;Data engineer
+Palkansaaja;36-40;mies;6.0;Tietojenkäsittelyn Kandidaatti ;PK-seutu;1.0;0.2;4500.0;*Full-stack Developer
+Palkansaaja;26-30;nainen;6.0;Ei alan koulutusta ;PK-seutu;1.0;0.75;5500.0;Software engineer 
+Palkansaaja;31-35;mies;9.0;IT insinööri (AMK);Seinäjoki;1.0;1.0;4100.0;Unreal developer
+Palkansaaja;36-40;mies;5.0;yliopisto;Oulu;1.0;0.0;3100.0;*Full-stack Developer
+Palkansaaja;26-30;mies;1.0;LuK, tietojenkäsittelytiede;Oulu;1.0;0.4;2800.0;Junior Fullstack Developer
+Palkansaaja;31-35;mies;7.0;Diplomi-insinööri;PK-seutu;1.0;0.8;5300.0;Software developer
+Palkansaaja;31-35;mies;7.0;FM, tietojenkäsittelytiede;Turku;1.0;0.1;7000.0;Senior backend developer
+Palkansaaja;26-30;mies;6.0;AMK;PK-seutu;1.0;0.15;5500.0;Senior FE developer
+Palkansaaja;26-30;nainen;8.0;Diplomi-insinööri;PK-seutu;1.0;0.75;6000.0;Software engineer
+Palkansaaja;21-25;mies;0.0;ylioppilas, 80 % valmis LuK tietojenkäsittelytieteestä;PK-seutu;0.5;0.8;1179.0;*Full-stack Developer
+Palkansaaja;41-45;mies;20.0;Tietojenkäsittelytieteen ylioppilas;PK-seutu;;0.01;7800.0;Senior full stack developer
+Palkansaaja;21-25;mies;2.0;Tekniikan kandi. Maisteri opiskelija Machine Learning and AI pääaineena. Sivuaineena ohjelmistotuotanto.;Tampere;1.0;0.5;3600.0;Data Engineer and Project Manager
+Palkansaaja;36-40;mies;18.0;ylioppilas;PK-seutu;1.0;0.0;11250.0;Site Reliability Engineer
+Palkansaaja;41-45;mies;20.0;LuK;PK-seutu;1.0;0.4;5700.0;Solution Analyst
+Palkansaaja;36-40;mies;15.0;AMK, ICT-tradenomi;PK-seutu;1.0;0.0;5922.5;Senior IT consultant
+Palkansaaja;31-35;mies;10.0;Tietotekniikan DI;PK-seutu;1.0;1.0;6000.0;Software Engineering Manager
+Palkansaaja;41-45;mies;7.0;Ammattikoulu;Turku;1.0;0.8;4160.0;Software developer
+Palkansaaja;31-35;nainen;5.0;tradenomi;PK-seutu;1.0;0.05;3400.0;Test automation engineer
+Palkansaaja;36-40;mies;15.0;AMK-insinööri;PK-seutu;1.4;0.05;8500.0;Senior BI Consultant
+Palkansaaja;31-35;mies;5.0;FM;Turku;1.0;0.1;4100.0;Software developer
+Palkansaaja;26-30;mies;8.0;Tietotekniikan diplomi-insinööri;PK-seutu;1.0;0.2;5175.0;Developer
+Palkansaaja;41-45;;20.0;DI;Tampere;1.0;0.75;7000.0;
+Palkansaaja;31-35;mies;12.0;AMK-insinööri;PK-seutu;1.0;0.4;5600.0;Senior fullstack developer
+Palkansaaja;26-30;mies;6.0;AMK;PK-seutu;1.0;0.1;6000.0;Senior Software Engineer
+Palkansaaja;31-35;mies;6.0;Luonnontieteiden kandidaatti, tietojenkäsittelytiede;Oulu;1.0;1.0;4012.5;*Full-stack Developer
+Palkansaaja;41-45;mies;15.0;Filosofian Maisteri, Tietojenkäsittelytiede;Joensuu;0.8;0.02;4100.0;Backend developer / Architect
+Palkansaaja;36-40;mies;14.0;AMK;Tampere;1.0;0.0;6300.0;Senior WordPress Developer
+Palkansaaja;26-30;nainen;1.0;Kauppatieteiden kandidaatti ja Luonnontieteiden kandidaatti (tietojenkäsittelytiede);PK-seutu;1.0;0.08;3800.0;Software Engineer Intern --> Software Engineer (juuri sain ylennyksen)
+Palkansaaja;31-35;mies;10.0;Alempi korkeakoulututkinto;PK-seutu;1.0;0.0;5900.0;Clojure developer
+Palkansaaja;31-35;mies;5.0;Media Engineer;PK-seutu;1.0;0.01;5500.0;Tech Lead / Software Developer / RPA Developer
+Laskuttaja;41-45;mies;18.0;diplomi-insinööri;;;;;
+Palkansaaja;26-30;mies;3.0;Bachelor of Science - BS, Computer Science;PK-seutu;1.0;0.05;5470.0;*Full-stack Developer
+Palkansaaja;26-30;nainen;3.0;amk;PK-seutu;1.0;;3100.0;
+Palkansaaja;41-45;nainen;3.0;;Turku;1.0;0.3;3600.0;Frontend developer
+Palkansaaja;26-30;mies;8.0;Diplomi-insinööri - Informaatioverkostot;PK-seutu;1.0;0.6;6200.0;Product Manager
+Palkansaaja;31-35;mies;5.0;AMK;Pori;1.0;0.2;3500.0;Security Engineer
+Palkansaaja;41-45;nainen;16.0;LuK;PK-seutu;1.0;0.5;6240.0;Engineering team lead
+Palkansaaja;26-30;mies;8.0;Tietotekniikan diplomi-insinööri;PK-seutu;1.0;0.05;5700.0;
+Palkansaaja;41-45;mies;18.0;Insinööri AMK;Tampere;1.0;0.6;5020.0;*Full-stack Developer
+Palkansaaja;36-40;mies;14.0;Ylempi korkeakoulututkino, DI tietotekniikka;PK-seutu;1.0;0.2;8812.0;*Full-stack Developer
+Palkansaaja;26-30;mies;4.0;Medianomi;PK-seutu;1.0;0.03;3953.0;Frontend developer
+Palkansaaja;31-35;mies;7.0;AMK, ei valmistunut;PK-seutu;1.0;0.2;7500.0;Backend developer / cloud engineer
+Palkansaaja;31-35;mies;7.0;AMK, IT-tradenomi;PK-seutu;1.0;0.0;6500.0;*Senior Developer
+Palkansaaja;41-45;mies;17.0;Insinööri (AMK), ohjelmistotekniikka;Tampere;1.0;0.82;5700.0;Senior SW Engineer
+Palkansaaja;36-40;;4.0;;Tampere;1.0;0.8;5000.0;*Senior Developer
+Palkansaaja;31-35;nainen;13.0;datanomi;;1.0;0.05;4200.0;Frontend developer && service design
+Palkansaaja;36-40;mies;9.0;Tradenomi, tietojenkäsittely (AMK);PK-seutu;1.0;0.02;5500.0;Software developer
+Palkansaaja;31-35;mies;8.0;Diplomi-insinööri;Tampere;1.0;0.3;6500.0;Machine learning engineer
+Palkansaaja;36-40;nainen;7.0;Insinööri;Tampere;1.0;0.6;4050.0;Frontend Developer
+Palkansaaja;41-45;mies;22.0;Ylioppilas ja Opistotaso;Tampere;1.0;0.8;8700.0;Cloud Architect 
+Palkansaaja;26-30;mies;6.0;ICT-insinööri;Jyväskylä;1.0;0.02;4800.0;*Senior Developer
+Palkansaaja;41-45;muu;17.0;DI;;1.0;0.03;5665.0;
+Palkansaaja;36-40;mies;15.0;DI;PK-seutu;1.0;0.05;5300.0;*Senior Developer
+Palkansaaja;36-40;;17.0;Engineer;PK-seutu;1.0;0.8;7600.0;Senior Manager
+Palkansaaja;41-45;nainen;12.0;Tietojenkäsittelytiede / maisteri;PK-seutu;1.0;0.02;6500.0;Sovelluskehittäjä
+Laskuttaja;41-45;mies;22.0;DI;;;;;
+Palkansaaja;41-45;mies;22.0;DI;Remote;0.8;0.0;4500.0;
+Laskuttaja;41-45;mies;15.0;insinööri;;;;;
+Laskuttaja;26-30;mies;7.0;Tradenomi ja itseoppinut koodari;;;;;
+Palkansaaja;31-35;mies;15.0;Datanomi;PK-seutu;1.0;0.25;6300.0;
+Palkansaaja;41-45;mies;16.0;Ammattikorkeakoulu ;Kirkkonummi ;1.0;0.8;6420.0;*Senior Developer
+Palkansaaja;31-35;mies;8.0;Maisteri, tietojenkäsittelytieteet;PK-seutu;1.0;0.5;5100.0;Cloud architect/developer
+Palkansaaja;36-40;muu;5.0;AMK;PK-seutu;1.0;0.1;5875.0;Software engineer
+Palkansaaja;36-40;mies;18.0;Datanomi;PK-seutu;0.987;0.04;6200.0;DevOps
+Laskuttaja;21-25;mies;6.0;Lukio;;;;;
+Palkansaaja;36-40;;18.0;Lukio;Hajautettu;1.0;0.0;7810.0;Software developer
+Palkansaaja;36-40;;7.0;Maisteri;PK-seutu;1.0;0.6;5400.0;*Senior Developer
+Palkansaaja;26-30;mies;7.0;Fil yo;PK-seutu;1.0;0.15;6210.0;
+Palkansaaja;26-30;mies;2.0;Ylioppilas;PK-seutu;1.0;0.75;3763.87;Web Developer
+Palkansaaja;46-50;;18.0;KTM;PK-seutu;1.0;0.6;6600.0;Software developer
+Palkansaaja;26-30;mies;4.0;Tietotekniikan DI;Englanti;1.0;0.0;8300.0;Senior Software Engineer
+Palkansaaja;31-35;mies;16.0;Ammattitutkinto;Jyväskylä;0.7;0.1;5670.0;Ohjelmoitsija
+Palkansaaja;41-45;mies;22.0;Insinööri ;Vaasa;1.0;0.95;4576.0;Software developer 
+Palkansaaja;41-45;mies;19.0;DI;Täysi etätyö, ei toimistoa;1.0;0.0;7300.0;Lead developer
+Palkansaaja;31-35;mies;5.0;Amk;Tampere;1.0;0.0;4200.0;Software designer
+Palkansaaja;31-35;nainen;6.0;Tietotekniikan insinööri;Tampere;1.0;1.0;4915.0;Staffing manager
+Palkansaaja;26-30;mies;6.0;Yliopisto (jätin kesken, ei tutkintoa);PK-seutu;1.0;0.0;5500.0;*Full-stack Developer
+Palkansaaja;36-40;mies;12.0;Diplomi-insinööri;PK-seutu;1.0;0.0;4700.0;*Senior Developer
+Palkansaaja;41-45;mies;26.0;Tekniikan ylioppilas;PK-seutu;1.0;0.5;6000.0;Lead Developer
+Palkansaaja;36-40;;14.0;diplomi-insinööri;PK-seutu;1.0;0.5;9700.0;*Full-stack Developer
+Laskuttaja;21-25;mies;6.0;Tietojenkäsittelytieteen kandidaatti;;;;;
+Palkansaaja;36-40;nainen;15.0;Ylioppilas;PK-seutu;1.0;0.8;5000.0;Developer
+Palkansaaja;41-45;mies;18.0;DI;PK-seutu;1.0;0.1;6500.0;Technical Lead 
+Palkansaaja;36-40;mies;11.0;YAMK;Turku;1.0;0.2;4300.0;*Full-stack Developer
+Palkansaaja;36-40;;12.0;Amk insinööri;Turku;1.0;0.1;4000.0;*Full-stack Developer
+Palkansaaja;31-35;;9.0;Tietojärjestelmätiede, KTM;PK-seutu;0.95;0.01;5560.0;
+Palkansaaja;31-35;mies;9.0;Yliopisto;Tampere;1.0;0.0;6000.0;Ohjelmistokehittäjä/-arkkitehti
+Palkansaaja;41-45;nainen;3.0;;Joensuu;1.0;0.75;2900.0;Software developer
+Palkansaaja;26-30;nainen;3.0;DI;PK-seutu;1.0;0.6;3300.0;Frontend developer
+Palkansaaja;36-40;mies;14.0;Ylioppilas;Oulu;1.0;0.04;4500.0;Backend developer
+Palkansaaja;15-20;mies;2.0;Lukio;Vaasa;1.0;0.0;2418.0;Software developer trainee
+Palkansaaja;31-35;mies;8.0;DI ;PK-seutu;1.0;0.2;5900.0;*Full-stack Developer
+Palkansaaja;31-35;mies;7.0;tietojenkäsittelytiede yliopistossa;Turku;0.8;0.5;4000.0;Full-stack web-kehittäjä
+Palkansaaja;31-35;mies;15.0;DI;PK-seutu;1.0;0.9;7100.0;Senior android native developer
+Palkansaaja;21-25;mies;1.0;Lukio;PK-seutu;1.0;0.0;3540.0;Junior Cloud Developer
+Palkansaaja;36-40;;;;Tampere;1.0;1.0;5400.0;Lead developer
+Laskuttaja;31-35;mies;10.0;Ammattikorkea;;;;;
+Palkansaaja;26-30;;9.0;DI;PK-seutu;1.0;0.75;4700.0;
+Palkansaaja;46-50;mies;25.0;Tradenomi;PK-seutu;1.0;0.05;5950.0;*Full-stack Developer
+Palkansaaja;41-45;mies;20.0;Diplomi-insinööri;Tampere;1.0;0.2;6500.0;Software Architect
+Palkansaaja;26-30;mies;5.0;Melkein maisteri;PK-seutu;1.0;0.5;5500.0;*Full-stack Developer
+Palkansaaja;36-40;mies;5.0;AMK;EU;1.15;1.0;4500.0;SAP Developer
+Palkansaaja;41-45;mies;18.0;DI;PK-seutu;1.0;0.5;7650.0;Kehityspäällikkö
+Palkansaaja;31-35;nainen;1.0;Filosofian maisteri, englannin kieli;Jyväskylä;0.9;0.5;2835.0;Junior QA Tester, automaatio- ja manuaalitestaus
+Palkansaaja;31-35;mies;10.0;DI;PK-seutu;1.0;0.95;6000.0;Site reliability engineer
+Palkansaaja;41-45;mies;18.0;DI;Tampere;1.0;0.1;5800.0;DevOps Specialist
+Palkansaaja;31-35;mies;5.0;AMK Tietoliikenne Insinööri;PK-seutu;1.0;0.25;4227.0;Azure Developer/konsultti
+Palkansaaja;41-45;mies;23.0;di;PK-seutu;1.0;0.95;4700.0;*Senior Developer
+Palkansaaja;31-35;mies;7.0;Tietotekniikan DI;PK-seutu;1.0;0.8;5500.0;Site Reliability Engineer
+Palkansaaja;31-35;mies;6.0;Yliopisto;PK-seutu;1.0;0.05;5500.0;*Full-stack Developer
+Palkansaaja;46-50;mies;23.0;AMK;PK-seutu;1.0;0.4;5500.0;*Senior Developer
+Palkansaaja;36-40;mies;12.0;Diplomi-insinööri;PK-seutu;1.0;0.2;8500.0;
+Palkansaaja;36-40;nainen;0.0;;Oulu;1.0;0.75;2340.0;Software developer trainee
+Palkansaaja;31-35;mies;7.0;Diplomi-insinööri;Tampere;1.0;1.0;4350.0;Web developer
+Palkansaaja;21-25;mies;2.0;melkein tietojenkäsittelytieteiden kandi;PK-seutu;1.0;0.1;2500.0;Trainee Software Developer
+Palkansaaja;31-35;mies;11.0;Maisteri (tietotekniikka);PK-seutu;1.0;0.4;11900.0;Staff engineer (AWS/cloud infrastructure)
+Palkansaaja;31-35;mies;10.0;Tietotekniinan insinööri;Tampere;1.0;0.9;4400.0;*Full-stack Developer
+Palkansaaja;31-35;mies;10.0;Diplomi-insinööri;PK-seutu;1.0;0.95;6433.94;Senior software engineer
+Laskuttaja;26-30;mies;7.0;insinööri;;;;;
+Palkansaaja;41-45;mies;3.0;Tradenomi, tietojenkäsittely (AMK);Turku;1.0;0.2;3385.0;Software developer
+Palkansaaja;26-30;mies;3.0;Amk ins.;PK-seutu;1.0;0.4;4670.0;*Full-stack Developer
+Palkansaaja;36-40;mies;1.0;Tieto ja viestintätekniikan perustutkinto + (insinööri);;1.0;0.0;2800.0;Software developer
+Palkansaaja;31-35;mies;5.0;"Yliopisto, AMK, ""Spec-Ops"", Kaksoistutkinto";PK-seutu;1.0;0.05;4700.0;Cyber Security Consultant
+Palkansaaja;36-40;mies;17.0;Yo (tai tietotekniikkakandi);Muu;1.33;0.0;11041.0;Software Engineer
+Palkansaaja;46-50;mies;26.0;FM, matematiikka ;Jyväskylä;1.0;0.6;5500.0;Product Owner 
+Palkansaaja;26-30;mies;10.0;Datanomi;Turku;1.0;0.95;5000.0;CEO
+Palkansaaja;36-40;;8.0;;Tampere;1.0;0.8;6100.0;Lead web developer
+Palkansaaja;> 55v;mies;28.0;YTM;Tampere;0.99;0.4;6000.0;Backend developer
+Palkansaaja;46-50;mies;25.0;DI;Tampere;1.0;0.5;5500.0;*Full-stack Developer
+Laskuttaja;36-40;mies;15.0;Diplomi-insinööri;;;;;
+Palkansaaja;41-45;;10.0;FM;PK-seutu;1.0;0.9;6500.0;CTO
+Palkansaaja;36-40;mies;12.0;Ylempi korkeakoulututkinto;PK-seutu;1.0;0.0;7000.0;Software Architect
+Palkansaaja;36-40;mies;11.0;DI;Tampere;1.0;0.9;7500.0;
+Palkansaaja;26-30;nainen;5.0;Ammattkikorkakoulu;PK-seutu;1.0;0.0;4000.0;Software developer
+Palkansaaja;31-35;mies;8.0;Lukio;Turku;1.0;0.75;4500.0;
+Palkansaaja;36-40;mies;18.0;Filosofian maister;Jyväskylä;0.9;0.2;5195.0;Android native developer
+Palkansaaja;26-30;mies;2.0;Kauppatieteiden maisteri;Kuopio;1.0;0.6;4000.0;Data Analyst
+Palkansaaja;26-30;nainen;5.0;Filosofian tohtori;Turku;0.8;0.04;2849.0;Senior researcher/ software developer 
+Palkansaaja;36-40;mies;5.0;Ammattiopisto;PK-seutu;1.0;0.0;4700.0;*Full-stack Developer
+Palkansaaja;36-40;nainen;4.0;Datanomi;PK-seutu;1.0;0.2;3650.0;Frontend Developer
+Palkansaaja;36-40;mies;16.0;DI;PK-seutu;1.0;0.15;6220.0;Full-stack webbidevaus + operointi (JVM backend, JS front, PostgreSQL, Azuren kube ym. kilkkeet)
+Palkansaaja;31-35;mies;6.0;it-tradenomi dropout;Tampere;1.0;0.1;4750.0;Frontend developer
+Laskuttaja;46-50;mies;25.0;Tietotekniikan DI;;;;;
+Palkansaaja;31-35;nainen;4.0;ei olennainen;Pori;1.0;0.05;3400.0;Full stack software developer / system specialist
+Laskuttaja;31-35;mies;8.0;Tekniikan ylioppilas;;;;;
+Palkansaaja;36-40;mies;15.0;Tradenomi;Tampere;1.0;0.2;3700.0;Järjestelmäasiantuntija
+Palkansaaja;31-35;nainen;8.0;Maisteri, Computer Science;PK-seutu;1.0;0.2;5800.0;Full Stack Software Developer
+Palkansaaja;26-30;mies;4.0;Opiskelija;PK-seutu;0.8;0.75;3255.0;Konsultti
+Palkansaaja;26-30;mies;6.0;Tekniikan ylioppilas;PK-seutu;1.0;0.2;6500.0;Software Engineer
+Palkansaaja;26-30;mies;4.0;;PK-seutu;1.0;0.9;10000.0;Software Engineer
+Palkansaaja;36-40;mies;15.0;Tietojenkäsittelyn tradenomi;PK-seutu;1.0;0.0;5300.0;*Full-stack Developer
+Palkansaaja;36-40;nainen;13.0;;Jyväskylä;1.0;0.5;5300.0;
+Palkansaaja;41-45;mies;21.0;FM;Jyväskylä;1.0;0.15;5150.0;Senior Software Developer, backend
+Palkansaaja;31-35;nainen;5.0;Kandi;PK-seutu;1.0;0.0;3700.0;*Full-stack Developer
+Palkansaaja;26-30;nainen;4.0;Ammattikoulu / Datanomi - ohjelmistokehitys;Joensuu;0.9;1.0;3075.0;Frontend Dev
+Palkansaaja;31-35;mies;14.0;Ylioppilas;Turku;1.1;0.2;6000.0;Full Stack + Data Engineer
+Palkansaaja;26-30;mies;5.0;Kauppatieteiden maisteri Tietojärjestelmätieteistä;Jyväskylä;1.0;0.7;4500.0;Product owner
+Palkansaaja;41-45;mies;8.0;DI;PK-seutu;1.0;0.4;0.0;Toimitusjohtaja
+Palkansaaja;41-45;mies;19.0;DI;PK-seutu;0.6;0.2;3700.0;Senior Software Engineer
+Palkansaaja;31-35;mies;6.0;AMK;Amsterdam;1.0;0.9;9166.0;*Full-stack Developer
+Palkansaaja;36-40;mies;1.0;Tietotekniikan ylioppilas;PK-seutu;0.8;0.95;2600.0;*Full-stack Developer
+Palkansaaja;21-25;mies;4.0;Tekniikan kandidaatti, Tietotekniikka, Aalto-Yliopisto;PK-seutu;1.0;0.0;13333.0;Software Engineer, Full-stack
+Palkansaaja;51-55;mies;25.0;Ylioppilas;Jyväskylä;1.0;0.0;6500.0;Technology director
+Palkansaaja;31-35;nainen;15.0;DI;Turku;1.0;0.2;4900.0;Tiimin vetäjä
+Palkansaaja;26-30;mies;8.0;Tietotekniikan Diplomi-insinööri;PK-seutu;1.0;0.4;5350.0;*Full-stack Developer
+Palkansaaja;31-35;mies;6.0;Ammattikorkeakoulu;Pori;1.0;0.1;3800.0;Software developer
+Palkansaaja;31-35;;7.0;DI;Tampere;1.0;0.0;5200.0;Ohjelmistosuunnittelija
+Palkansaaja;31-35;;5.0;;PK-seutu;1.0;0.05;4400.0;Frontend developer
+Palkansaaja;31-35;mies;3.0;Lukio / keskeneräiset opinnot amk;PK-seutu;1.0;0.0;4650.0;Senior Data Engineer
+Laskuttaja;31-35;mies;11.0;Luonnontieteiden kandidaatti (Tietojenkäsittelytiede);;;;;
+Palkansaaja;31-35;mies;15.0;Lukio;PK-seutu;1.0;0.25;8500.0;
+Palkansaaja;41-45;mies;20.0;Filosofian maisteri;Tampere;1.0;0.01;4700.0;*Devops Consultant
+Palkansaaja;41-45;mies;10.0;Ylioppilas;PK-seutu;1.0;0.9;5400.0;Development Advisor
+Palkansaaja;36-40;mies;17.0;Ammattiopisto;PK-seutu;1.0;0.05;5700.0;*Devops Consultant
+Palkansaaja;46-50;mies;25.0;AMK;PK-seutu;1.0;0.5;6400.0;*Devops Consultant
+Palkansaaja;46-50;mies;25.0;Yliopisto-opintoja;Tampere;1.0;0.8;5900.0;DevOps / SRE
+Palkansaaja;36-40;nainen;3.0;Tradenomi;Tampere;1.0;0.4;3673.0;Software Developer
+Palkansaaja;41-45;mies;20.0;DI;PK-seutu;1.0;0.25;7000.0;Engineering team lead
+Palkansaaja;41-45;mies;19.0;yliopisto;Turku;1.0;0.5;5200.0;Unit director
+Palkansaaja;41-45;mies;11.0;BSc CS;PK-seutu;1.0;0.0;5100.0;*Devops Consultant
+Palkansaaja;31-35;mies;10.0;Tietojenkäsittelyn tradenomi (AMK);Mikkeli;1.0;;3750.0;Front-end lead developer
+Palkansaaja;36-40;mies;15.0;tekniikan kandidaatti;Tampere;1.0;0.95;6000.0;*Devops Consultant
+Palkansaaja;31-35;nainen;7.0;Filosofian maisteri (pääaine matematiikka);Tampere;1.0;0.5;5780.0;
+Palkansaaja;41-45;mies;17.0;;PK-seutu;1.0;;7300.0;Team Lead
+Palkansaaja;36-40;mies;16.0;Ammattikoulu;PK-seutu;1.0;0.2;7000.0;*Devops Consultant
+Palkansaaja;36-40;mies;9.0;Tekniikan ylioppilas;Tampere;1.0;0.75;5100.0;*Devops Consultant
+Palkansaaja;36-40;mies;12.0;Yliopisto;Ulkomaat;1.0;0.8;7000.0;Data team lead
+Palkansaaja;36-40;nainen;15.0;Tietotekniikan DI;Tampere;1.0;0.1;5300.0;Designer & Software Developer (Web, Desktop, Mobile iOS)
+Palkansaaja;36-40;mies;13.0;Tietotekniikan DI;PK-seutu;1.0;0.2;6500.0;
+Palkansaaja;26-30;mies;2.0;Kauppatieteiden maisteri;PK-seutu;1.0;0.5;4000.0;Software developer
+Palkansaaja;31-35;mies;10.0;Ammattikorkeakoulu;Turku;1.0;0.0;7100.0;Software developer
+Palkansaaja;31-35;mies;6.0;Tietotekniikan insinööri (AMK);Turku;1.0;0.6;4100.0;*Full-stack Developer
+Palkansaaja;31-35;mies;13.0;;Tampere;1.0;0.95;5700.0;Technical Architect
+Palkansaaja;31-35;mies;7.0;Diplomi-insinööri;Tampere;1.0;0.8;4500.0;*Devops Consultant
+Palkansaaja;36-40;mies;5.0;Ammattikoulu;Tampere;1.0;0.66;4200.0;Unity developer
+Laskuttaja;41-45;mies;10.0;Tekniikan tohtori;;;;;
+Palkansaaja;31-35;mies;10.0;DI;PK-seutu;1.0;0.05;5800.0;Frontend developer
+Laskuttaja;31-35;;10.0;AMK;;;;;
+Palkansaaja;41-45;mies;20.0;DI TKK Tietotekniikka;PK-seutu;1.0;0.1;6462.0;Senior Consultant
+Palkansaaja;26-30;mies;7.0;Melkein maisteri;PK-seutu;1.0;0.75;5600.0;*Full-stack Developer
+Palkansaaja;41-45;mies;20.0;FK;PK-seutu;1.0;0.33;5730.0;*Full-stack Developer
+Palkansaaja;41-45;mies;15.0;Diplomi-insinööri ;PK-seutu;1.0;0.75;7170.0;Staff engineer
+Palkansaaja;36-40;mies;15.0;MSc;Tampere;1.0;0.6;6000.0;Lead Application Developer
+Palkansaaja;26-30;nainen;3.0;-;PK-seutu;1.0;0.0;4500.0;DevOps
+Palkansaaja;26-30;mies;6.0;AMK;PK-seutu;1.0;0.0;4300.0;Frontend developer
+Palkansaaja;46-50;mies;25.0;DI;Tampere;1.0;0.9;5300.0;
+Palkansaaja;26-30;mies;5.0;Tieto- ja viestintätekniikan insinööri;PK-seutu;1.0;0.05;4500.0;Frontend developer
+Palkansaaja;36-40;nainen;3.0;AMK;Oulu;1.0;0.1;3950.0;*Full-stack Developer
+Palkansaaja;26-30;mies;8.0;tietotekniikan DI;PK-seutu;1.0;0.5;5700.0;Fullstack-developer
+Palkansaaja;31-35;mies;5.0;Tietotekniikan insinööri;Oulu;1.0;0.05;6800.0;*Full-stack Developer
+Palkansaaja;26-30;mies;4.0;Insinööri (OAMK);Oulu;1.0;0.4;3250.0;Ohjelmisto kehittäjä ja ohjelmoinin kouluttaja
+Laskuttaja;36-40;mies;17.0;Datanomi;;;;;
+Palkansaaja;31-35;mies;6.0;Diplomi-insinööri;Tampere;1.0;0.025;6000.0;*Full-stack Developer
+Palkansaaja;36-40;;10.0;Diplomi-insinööri;Tampere;1.0;0.5;4850.0;Software architect
+Palkansaaja;46-50;mies;20.0;Ammattikoulu;Tampere;1.0;0.0;5684.0;*Senior Developer
+Palkansaaja;41-45;mies;4.0;Tietojenkäsittelytieteiden kandidaatti;Turku;1.0;0.0;4300.0;Software Specialist
+Palkansaaja;36-40;mies;15.0;Ammattitutkinto, itseopiskelu;PK-seutu;1.0;0.2;6020.0;Lead developer
+Palkansaaja;31-35;mies;9.0;Insinööri (AMK);PK-seutu;1.0;0.6;7300.0;Head of Engagements
+Palkansaaja;31-35;;8.0;IT-tradenomi;PK-seutu;1.0;0.4;5580.0;Arkkitehti (Dynamics 365)
+Palkansaaja;31-35;mies;12.0;Luonnontieteiden Kandidaatti (tietojenkäsittelytiede) ;PK-seutu;1.0;0.9;7000.0;*Full-stack Developer
+Palkansaaja;31-35;nainen;3.0;Insinööri (AMK);PK-seutu;1.0;0.3;3660.0;Software Specialist 
+Palkansaaja;26-30;mies;5.0;Diplomi-insinööri;Tampere;1.0;0.0;5800.0;*Senior Developer
+Palkansaaja;36-40;mies;8.0;Diplomi-insinööri;Tampere;1.0;0.5;8000.0;*Senior Developer
+Palkansaaja;31-35;mies;9.0;Lukio + AMK-opintoja valmistumatta;PK-seutu;1.0;0.01;5800.0;Senior Software Developer, backend
+Palkansaaja;36-40;mies;6.0;Lukio;PK-seutu;1.0;0.0;4583.0;Frontend/React developer
+Palkansaaja;46-50;mies;25.0;FM;Kuopio;1.0;0.1;4800.0;Technical architect
+Palkansaaja;31-35;nainen;2.0;;Turku;1.0;0.6;3900.0;Frontend developer
+Laskuttaja;36-40;;15.0;Tekn. yo;;;;;
+Laskuttaja;36-40;;15.0;Maisteri;;;;;
+Palkansaaja;46-50;mies;24.0;KTM;PK-seutu;1.0;0.0;6450.0;CDO / design lead
+Palkansaaja;21-25;;1.0;Toisen asteen kaksoistutkinto;PK-seutu;1.0;0.0;2600.0;*Full-stack Developer
+Palkansaaja;36-40;mies;5.0;Ammattikorkeakoulu dropout, itseoppinut koodari ;Barcelona ;1.0;0.0;3510.0;*Full-stack Developer
+Palkansaaja;36-40;mies;15.0;Insinööri (AMK);PK-seutu;1.0;0.2;4300.0;DevOps Engineer
+Palkansaaja;;;1.0;;Tampere;1.0;0.8;3300.0;Software Engineer
+Palkansaaja;26-30;mies;3.0;Luonnontieteiden DI;PK-seutu;1.0;0.01;4800.0;Data scientist
+Palkansaaja;41-45;;23.0;AMK insinööri;PK-seutu;1.0;0.8;8000.0;VP of Engineering / CTO / Cloud Architect
+Palkansaaja;41-45;mies;14.0;Tietojenkäsittelyn tradenomi;Tampere;1.0;0.5;5000.0;Senior Frontend Developer
+Palkansaaja;31-35;nainen;5.0;Filosofian maisteri, tietojenkäsittelytiede;PK-seutu;1.0;0.5;4200.0;Software Developer
+Palkansaaja;21-25;mies;0.0;AMK tietojenkäsittelyn tradenomi;Tampere;1.0;0.05;2200.0;*Full-stack Developer
+Palkansaaja;36-40;mies;13.0;AMK, Software Engineering;PK-seutu;1.0;0.18;4950.0;*Senior Developer
+Palkansaaja;36-40;mies;19.0;Filosofian maisteri (tietotekniikka);PK-seutu;0.5001;0.01;2958.48;Doctoral researcher
+Palkansaaja;36-40;mies;15.0;Filosofian maisteri (tietojenkäsittelytiede);PK-seutu;1.0;1.0;5684.0;Delivery lead and devops 
+Palkansaaja;41-45;mies;18.0;DI, tietotekniikka;Tampere;0.6;0.5;3460.0;Software architect
+Palkansaaja;21-25;mies;2.0;5 vuotta tietojenkäsittelytieteen opintoja;PK-seutu;0.5;0.7;1125.0;*Full-stack Developer
+Palkansaaja;36-40;mies;14.0;Diplomi-insinööri;Tampere;1.0;1.0;5200.0;Projektipäällikkö
+Palkansaaja;26-30;nainen;4.0;Tietojenkäsittelytieteen maisteri;PK-seutu;0.5;0.15;2800.0;Senior devops engineer / tech lead
+Palkansaaja;31-35;mies;9.0;Ylioppilas;PK-seutu;1.0;0.25;7000.0;Senior Data Engineer
+Palkansaaja;36-40;mies;12.0;Diplomi-Insinööri;PK-seutu;1.0;0.75;5600.0;*Senior Developer
+Palkansaaja;36-40;;6.0;DI;PK-seutu;1.0;0.8;5775.0;Estimation algorithm developer
+Laskuttaja;31-35;mies;8.0;Filosofian Maisteri;;;;;
+Palkansaaja;31-35;mies;5.0;Tieto- ja viestintätekniikan insinööri;PK-seutu;1.0;0.6;4200.0;*Full-stack Developer
+Palkansaaja;31-35;mies;8.0;University dropout;PK-seutu;1.0;0.4;7000.0;Senior Fullstack Developer
+Palkansaaja;36-40;mies;12.0;Alempi korkeakoulu;Tampere;1.0;0.1;5500.0;Frontend Developer Lead
+Palkansaaja;31-35;nainen;2.0;opiskelen;;0.8;1.0;2580.0;Frontend developer
+Palkansaaja;26-30;mies;8.0;Tietojenkäsittelytieteen kandidaatti;PK-seutu;1.0;0.7;4600.0;Software Architect
+Laskuttaja;41-45;mies;15.0;Diplomi-Insinööri;;;;;
+Palkansaaja;26-30;mies;5.0;Kauppatieteiden Maisteri;PK-seutu;1.0;0.6;5800.0;Software developer
+Palkansaaja;26-30;nainen;2.0;Alempi korkeakoulututkinto;Tampere;1.0;0.05;4300.0;Software test engineer
+Palkansaaja;36-40;mies;15.0;Lukio;PK-seutu;1.0;0.05;7400.0;
+Palkansaaja;31-35;mies;7.0;Luonnontieteiden kandidaatti;PK-seutu;1.0;0.2;8000.0;Tekninen Product Owner
+Palkansaaja;46-50;mies;21.0;DI;PK-seutu;1.0;0.5;4500.0;PO
+Palkansaaja;31-35;mies;15.0;tekniikan tohtori;PK-seutu;1.0;0.05;4000.0;*Full-stack Developer
+Palkansaaja;26-30;mies;9.0;Maisteri;Tampere;1.0;0.8;4900.0;Full-stack & DevOps
+Palkansaaja;36-40;mies;2.0;AMK;PK-seutu;1.0;0.75;3700.0;Software developer
+Palkansaaja;36-40;nainen;4.0;Tietojenkäsittelyn maisteri;PK-seutu;1.0;0.75;3500.0;*Full-stack Developer
+Palkansaaja;36-40;mies;10.0;Filosofian maisteri;Turku;1.0;0.15;5091.0;*Full-stack Developer
+Laskuttaja;41-45;mies;6.0;Diplomi-insinööri;;;;;
+Palkansaaja;36-40;mies;17.0;DI;Turku;1.0;0.0;4100.0;CTO
+Palkansaaja;26-30;;3.0;Maisteri;Tampere;1.0;0.05;4200.0;Software Developer
+Palkansaaja;41-45;mies;12.0;KM;PK-seutu;1.0;;6200.0;TA Lead
+Palkansaaja;26-30;mies;8.0;IT-tradenomi;PK-seutu;1.0;0.2;3890.0;Support / System specialist
+Laskuttaja;36-40;mies;10.0;Ylempi korkeakoulututkinto, DI;;;;;
+Palkansaaja;41-45;mies;18.0;Toisen asteen ammatillinen koulutus (datanomi);PK-seutu;1.0;0.6;5500.0;*Full-stack Developer
+Palkansaaja;31-35;;9.0;Yliopisto;PK-seutu;1.0;0.1;5500.0;*Senior Developer
+Palkansaaja;51-55;mies;25.0;Ohjelmistoinsinööri AMK;PK-seutu;1.0;0.5;4930.0;Data engineer
+Palkansaaja;31-35;mies;11.0;Bachelor of Science;PK-seutu;1.0;0.05;6200.0;Senior Data Engineer
+Palkansaaja;36-40;mies;13.0;di-opinnot kesken;Tampere;1.0;0.03;6200.0;Senior fullstack developer
+Palkansaaja;36-40;mies;15.0;Ammattikorkeakoulu;PK-seutu;1.0;0.7;5600.0;Senior Software Engineer
+Laskuttaja;26-30;mies;7.0;Diplomi-insinööri;;;;;
+Palkansaaja;36-40;mies;15.0;FM, tietojenkäsittelytiede;PK-seutu;1.0;1.0;5800.0;UX & UI Designer
+Palkansaaja;26-30;mies;4.0;Filosofian Maisteri;Turku;1.0;0.33;3800.0;*Full-stack Developer
+Palkansaaja;31-35;nainen;3.0;FM, humanisti;PK-seutu;1.0;0.1;3620.0;Junior full stack web developer
+Palkansaaja;36-40;mies;3.0;FM tietojenkäsittelytiede;PK-seutu;1.0;0.05;4600.0;Software developer 
+Palkansaaja;41-45;nainen;14.0;filosofian maisteri;PK-seutu;1.0;0.0;4100.0;Produc owner
+Palkansaaja;36-40;nainen;1.0;;PK-seutu;1.0;0.05;3145.0;Junior data engineer
+Palkansaaja;26-30;mies;4.0;Tieto- ja viestintätekniikka, insinööri, AMK;Tampere;1.0;0.25;4070.0;*Full-stack Developer
+Palkansaaja;26-30;mies;7.0;AMK;PK-seutu;1.0;0.4;6100.0;Senior backend engineer
+Palkansaaja;26-30;nainen;5.0;Insinööri, Ammattikorkeakoulu;Oulu;1.0;0.1;4635.0;*Full-stack Developer
+Palkansaaja;41-45;nainen;2.0;humanististen tieteiden kandidaatti, tietojenkäsittelytiede sivuaineena (perusopinnot);PK-seutu;1.0;0.2;3560.0;C++/no-code/low-code developer, Windows applications
+Palkansaaja;41-45;mies;20.0;DI;Tampere;1.0;0.5;5200.0;*Full-stack Developer
+Laskuttaja;41-45;mies;20.0;DI;;;;;
+Palkansaaja;31-35;mies;10.0;AMK Insinööri + Ekonomi;PK-seutu;1.0;0.6;5780.0;Ohjelmistokehittäjä
+Palkansaaja;36-40;;7.0;merkonomi;PK-seutu;1.0;0.2;4500.0;*Full-stack Developer
+Palkansaaja;36-40;mies;15.0;Ammattikoulu;PK-seutu;1.0;0.0;3350.0;Developer
+Palkansaaja;31-35;muu;6.0;Ylioppilas;PK-seutu;1.0;0.1;5062.0;*Full-stack Developer
+Palkansaaja;41-45;mies;20.0;Tekn. yo;Oulu;0.8;0.95;3280.0;DevOps
+Palkansaaja;31-35;mies;9.0;Ktm;Tampere;1.0;0.2;5030.0;Product manager
+Palkansaaja;31-35;nainen;13.0;Diplomi-insinööri (tietotekniikka);PK-seutu;1.0;0.6;6500.0;Software engineer, mobile & web fullstack
+Palkansaaja;36-40;nainen;22.0;filosofian tohtori, DI;PK-seutu;1.0;0.5;4500.0;Data engineer
+Palkansaaja;26-30;mies;2.0;Diplomi-insinööri;Tampere;1.0;0.8;4350.0;Data Engineer
+Palkansaaja;41-45;nainen;25.0;Ylioppilas;PK-seutu;1.0;0.1;5200.0;Palvelumuotoilija
+Palkansaaja;36-40;mies;18.0;Korkeakoulututkinto;PK-seutu;1.0;0.4;6600.0;CTO
+Palkansaaja;26-30;mies;5.0;Tietojenkäsittely tradenomi;Vaasa;1.0;0.05;3400.0;*Senior Developer
+Palkansaaja;36-40;mies;13.0;Diplomi-insinööri;PK-seutu;1.0;0.0;7000.0;Lead Cloud Developer
+Laskuttaja;36-40;mies;22.0;Amis;;;;;
+Palkansaaja;46-50;mies;20.0;FM, tietojenkäsittely;Turku;1.0;0.05;6700.0;Senior consultant
+Palkansaaja;26-30;mies;2.0;Filosofian maisteri;PK-seutu;1.0;0.4;3900.0;Software Developer
+Palkansaaja;41-45;mies;12.0;AMK;PK-seutu;1.0;1.0;5500.0;Projektipäällikkö
+Palkansaaja;41-45;mies;10.0;Tekniikan kandidaatti;PK-seutu;1.0;0.05;5500.0;Senior consultant
+Palkansaaja;36-40;mies;11.0;Tradenomi;Jyväskylä;1.0;0.1;5000.0;Cloud Devops Developer
+Palkansaaja;41-45;mies;20.0;DI, tietotekniikka;PK-seutu;1.0;0.2;7000.0;Engineering Manager
+Palkansaaja;36-40;mies;15.0;Diplomi;PK-seutu;1.0;0.9;4800.0;*Senior Developer
+Palkansaaja;26-30;mies;2.0;TiTe DI;Turku;1.0;0.33;4000.0;Junior Data Scientist
+Palkansaaja;31-35;mies;9.0;Datanomi ja Tietojenkäsittelyn kandi;PK-seutu;1.0;0.33;5200.0;*Full-stack Developer
+Palkansaaja;36-40;mies;15.0;amk, tietotekniikan insinööri;PK-seutu;1.0;0.33;4903.83;Fullstack & mobile software engineer
+Palkansaaja;41-45;mies;23.0;Lukio;;1.0;0.1;13750.0;Senior Software Engineer
+Palkansaaja;26-30;mies;4.0;Tekniikan kandidaatti / tietotekniikka, dippatyö kesken;Oulu;1.0;0.3;3700.0;Python backend engineer & data analyst
+Palkansaaja;36-40;mies;10.0;Ylempi korkeakoulututkinto;Oulu;1.0;0.33;7000.0;Lead Developer, cloud
+Palkansaaja;31-35;mies;5.0;DI;Oulu;1.0;0.1;3981.0;Backend developer
+Palkansaaja;41-45;mies;13.0;Yliopisto;Turku;1.0;0.0;8000.0;*Full-stack Developer
+Palkansaaja;41-45;mies;15.0;FM;Turku;0.3;0.0;4000.0;PM/backend developer+ DevOps guy
+Laskuttaja;31-35;mies;12.0;Insinööri;;;;;
+Palkansaaja;41-45;;25.0;;Tampere;0.6;0.3;4500.0;Software architect, full-stack
+Palkansaaja;36-40;mies;20.0;Luonnontieteiden kandidaatti;PK-seutu;1.0;0.4;8500.0;CxO
+Laskuttaja;< 15v;;12.0;;;;;;
+Palkansaaja;31-35;mies;14.0;Ylioppilas;PK-seutu;1.0;0.2;7300.0;Backend developer
+Palkansaaja;41-45;mies;20.0;BBA;No HQ;1.2;0.0;4500.0;CTO
+Palkansaaja;31-35;mies;2.0;self-taught;PK-seutu;1.0;0.8;3800.0;Junior Full Stack Developer
+Palkansaaja;36-40;mies;14.0;MSc. in Software Engineering;Turku;1.0;0.4;7100.0;*Full-stack Developer
+Laskuttaja;46-50;mies;22.0;M.Sc. Computer Science;;;;;
+Palkansaaja;26-30;mies;5.0;Bachelors degree in ICT;PK-seutu;1.0;0.05;3900.0;Backend developer
+Laskuttaja;36-40;;15.0;PhD;;;;;
+Palkansaaja;41-45;;20.0;Insinööri;;1.0;0.2;7400.0;Architect
+Palkansaaja;21-25;mies;1.0;University dropout;Oulu;1.0;0.1;3000.0;*Full-stack Developer
+Palkansaaja;36-40;;23.0;University of applied sciences.;PK-seutu;0.85;0.05;4080.0;*Senior Developer
+Palkansaaja;26-30;mies;4.0;University of Applied Sciences, Bachelor;PK-seutu;0.8;1.0;4050.0;DevOps Engineer
+Palkansaaja;36-40;nainen;8.0;AMK;PK-seutu;1.0;0.02;4300.0;Senior frontend developer and manager
+Palkansaaja;31-35;nainen;7.0;Bachelor of Engineering ;PK-seutu;1.0;0.1;6000.0;IOS developer
+Palkansaaja;26-30;mies;3.0;M.Sc. in Business Administration;PK-seutu;1.0;0.03;3900.0;Process Developer / Technical Writer
+Palkansaaja;31-35;mies;10.0;Bachelor of Science;PK-seutu;1.0;0.15;5310.0;Senior Software Engineer
+Palkansaaja;26-30;mies;3.0;Tietotekniikan DI;PK-seutu;1.0;0.0;4800.0;Mobile developer
+Palkansaaja;26-30;nainen;4.0;AMK Insinööri;PK-seutu;1.0;0.0;4950.0;Software Engineer
+Palkansaaja;36-40;mies;15.0;Doctoral Degree;Jyväskylä;1.0;1.0;5100.0;Senior sensor engineer and project manager
+Palkansaaja;31-35;nainen;7.0;Bachelor degree in CS;PK-seutu;1.0;0.0;6000.0;Software developer
+Palkansaaja;31-35;mies;11.0;Datanome, BCompSc;I work from home (Turku) for a US-based company;1.0;0.0;10920.0;Senior Software Engineer
+Palkansaaja;36-40;mies;12.0;Master of Computer Engineering;PK-seutu;1.0;0.1;5700.0;Software Developer
+Palkansaaja;36-40;mies;1.0;MSc;PK-seutu;1.0;0.05;3400.0;Software developer
+Palkansaaja;31-35;mies;7.0;Master of Science (Economics and Business Administration);PK-seutu;1.0;0.5;6700.0;Software Engineer
+Palkansaaja;26-30;mies;3.0;Master's in Computer Science;PK-seutu;1.0;0.8;4500.0;Software Engineer
+Palkansaaja;36-40;mies;20.0;Elementary;Tampere;1.0;0.5;12100.0;Lead
+Palkansaaja;26-30;mies;6.0;High school;PK-seutu;1.0;0.1;3800.0;*Full-stack Developer
+Palkansaaja;26-30;mies;7.0;Bachelor's degree in statistics;PK-seutu;1.0;0.02;6000.0;Data Engineer
+Palkansaaja;31-35;mies;15.0;master's degree in information systems;PK-seutu;1.0;0.4;6500.0;Senior Software Engineer
+Palkansaaja;41-45;mies;20.0;Bachelor;PK-seutu;1.0;0.1;5940.0;Full stack software developer
+Palkansaaja;51-55;mies;23.0;Matriculation examination;Tampere;1.0;0.2;5650.0;Cloud Specialist
+Palkansaaja;36-40;mies;14.0;AMK;PK-seutu;0.8;0.0;4200.0;Hands-on architect
+Palkansaaja;41-45;mies;15.0;Bachelor of business administration, IT;Tampere;1.0;0.4;5000.0;Tech lead
+Palkansaaja;46-50;mies;25.0;High school;Tampere;1.0;0.9;5600.0;Software architect
+Palkansaaja;31-35;nainen;3.0;Bachelors Degree (Information Technology);Tampere;1.0;0.1;4150.0;Cloud Engineer
+Palkansaaja;41-45;;19.0;2x MSc;PK-seutu;1.0;0.2;6500.0;Senior DevOps Consultant
+Palkansaaja;26-30;mies;7.0;Undergraduate;PK-seutu;1.0;0.05;5800.0;Senior Infrastructure Engineer
+Palkansaaja;41-45;mies;24.0;Master of Science;PK-seutu;1.0;1.0;6000.0;CTO
+Palkansaaja;46-50;mies;20.0;;PK-seutu;1.0;0.2;4475.0;Developer & Team Lead
+Palkansaaja;46-50;mies;32.0;Master's Degree;PK-seutu;1.0;0.25;13390.0;Engineering Manager
+Palkansaaja;26-30;mies;5.0;Upper secondary school;PK-seutu;1.0;0.2;4050.0;*Full-stack Developer
+Palkansaaja;36-40;mies;14.0;University of applied sciences ;PK-seutu;1.0;0.85;9900.0;Nodejs fullstack developer
+Palkansaaja;31-35;nainen;6.0;;PK-seutu;1.0;0.3;4500.0;*Full-stack Developer
+Palkansaaja;31-35;mies;10.0;bachelor's;PK-seutu;1.0;0.8;10000.0;Android developer
+Palkansaaja;31-35;mies;9.0;Masters in computer science;PK-seutu;1.0;0.5;5700.0;*Devops Consultant
+Palkansaaja;26-30;nainen;5.0;Master's degree and lower university degree;Tampere;1.0;0.4;4479.0;Integration specialist
+Palkansaaja;36-40;nainen;16.0;Collage drop out;Oulu;1.0;0.45;5871.0;
+Palkansaaja;36-40;nainen;12.0;Bachelor of engineering;PK-seutu;1.0;0.1;4400.0;Senior web developer, accessibility specialist
+Palkansaaja;36-40;nainen;9.0;PhD;PK-seutu;0.8;0.6;5200.0;Senior web developer, Techical competence manager
+Palkansaaja;46-50;;;;PK-seutu;1.0;0.1;4920.0;*Senior Developer
+Palkansaaja;26-30;nainen;7.0;Master of science in IT;Oulu;1.0;0.3;4900.0;Full stack software developer
+Palkansaaja;26-30;mies;8.0;Vocational college + some university;Oulu;1.0;0.9;5000.0;Senior Developer / Manager
+Palkansaaja;26-30;mies;4.0;Bachelor's degree in media engineeering;PK-seutu;1.0;0.6;3100.0;Support Developer
+Palkansaaja;41-45;nainen;0.0;Trade School certificate in relevant industry, Bachelor degree in other discipline;PK-seutu;1.0;0.6;3000.0;*Full-stack Developer
+Palkansaaja;31-35;mies;8.0;Bachelor in IT;Oulu;1.0;0.05;4600.0;Software Developer
+Palkansaaja;26-30;mies;4.0;Bachelor of engineering;PK-seutu;1.0;0.05;3700.0;Support developer
+Laskuttaja;41-45;;22.0;Industrial Engineering;;;;;
